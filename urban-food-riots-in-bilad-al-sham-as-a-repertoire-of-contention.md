@@ -2,10 +2,14 @@
 Title: Urban food riots in late Ottoman *Bilād al-Shām* as a "repertoire of contention"
 Author: Till Grallert
 Date: 2017-09-16 01:42:04 +0300
+ORCID: orcid.org/0000-0002-5739-8094
+DOI: doi.org/
+licence: http://creativecommons.org/licenses/by-nd/4.0/
 markdown: 
  - multimarkdown
  - CriticMarkup
  - pandoc-crossref
+include-after: <footer><span class="c_info c_license"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.</span></footer>
 ---
 
 <!-- 
@@ -13,11 +17,9 @@ markdown:
     pandoc -s -S -f markdown -t html5 food-riots_2017-09-15.md -o food-riots_2017-09-15.html
 -->
 
-# Titles
+# About
 
-Paper title at the conference: "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*"
-
-Chapter title: Urban food riots in late Ottoman *Bilād al-Shām* as a "repertoire of contention".
+This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I gave at the 
 
 # Introduction
 
