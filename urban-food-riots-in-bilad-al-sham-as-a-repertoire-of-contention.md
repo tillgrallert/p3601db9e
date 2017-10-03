@@ -88,7 +88,7 @@ Relying predominantly on wholesale prices of wheat for evaluating the relation b
 
 <!-- ## Observations ## -->
 
-![Wheat prices in Bilād al-Shām, 1875--1916](../../food-riots_data/plots/rplot_prices-wheat-1875-1916.png){#fig:wheat-prices width=80%} 
+![Wheat prices in Bilād al-Shām, 1875--1916](assets/plots/rplot_prices-wheat-1875-1916.png){#fig:wheat-prices width=80%} 
 
 @fig:wheat-prices shows that prices of wheat fluctuated widely over the course of years and in addition to the annual cycle of rising prices during spring before new harvests arrive at the market in June. In years of abundant harvests, such as 1882, 1884, 1905 or 1906, prices would fall below the long term average of Ps 20 to 25 per *kile*[^fn14] to Ps 17 and even Ps 14. When calamities such as insufficient winter rains and locusts threatened failing harvests, prices reached Ps 60 per *kile* and more. This data does not mirror the trend of falling grain prices between 1876 and 1905 followed by a sharp increase of some 25 per cent between 1906 and 1908 observed by Donald Quataert for Anatolia. As the decrease was partially due to American wheat flooding the world markets, it is not surprising that such decrease cannot be observed for Bilād al-Shām which relied on local crops. While average grain prices in Istanbul fell from c. Ps 25"20 per *kile* to Ps 18"20, Ps 25 was considered the normal price in good years in Damascus.[^fn15] The inflation and fluctuation of exchange rates between the gold lira and the silver piaster are of no importance in this context since prices were always quoted in piaster only.[^fn16]
 
