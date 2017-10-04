@@ -9,6 +9,8 @@ date: 2017-10-03 15:25:01 +0300
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
 
 - #Td4: point to a table or data set on food riots
+- add references to the maps
+- mention Gelvin in the context of models for and of society
 
 ## done
 
