@@ -127,8 +127,10 @@ If food prices cannot explain the timing of food riots and if food riots have no
 
 The repertoire of the food riot can be broken down into a sequence of events that occur in three phases: a longer prologue of artificially high prices and "inspiring" events conducive to popular protest; the food riot itself that never lasted through the night but could be repeated over some days and which rarely involved the looting of foodstuffs; the immediate aftermath of not more than a month during which the authorities tried to contain the anger through (largely symbolic) investigations and administrative measures.
 
+
+<!-- Date | Place | Phase 1 || Phase 2 ||||| Phase 3 | -->
 Date | Place | 1. high prices | 2. timing | 3. crowd gathers | 4. seat of authorities | 5. failed intervention | 6.looting | 7. successful intervention | 8. promised improvements | 9. high prices | # of elements
--|-|-|-|-|-|-|-|-|-|-
+-|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 1878-03 | Damascus | x | x | x | x | - | - | x | x | x | 7
 1880-03-14 | Beirut | x | - | x | - | - | x | x | x | - | 5
 1908-08-19 | Beirut | x | x | x | x | x | - | x | x | x | 8
@@ -337,8 +339,6 @@ This chapter presented the first systematic attempt of a study of food riots in 
 I argued that such a shared and learned repertoire can serve to answer the question why protestors did engage in food riots although they constantly proved unsuccessful in achieving their stated claim and why they did not commonly take food by force. The demand for bread at *affordable* and *established* prices was largely symbolic---as attested by the constant failure of the protest in securing their demand---and part of the larger negotiation of political legitimacy in times of internal and external crisis. In line with the "moral economy" of English and French crowds in the seventeenth century, protestors called on the rulers to obey the *ancien régime* of paternalist obligations towards the ruled. The demand for bread was chosen because it was (and is) inherently legitimate. Coupled with a discourse of greedy merchants, who were ultimately to blame either for the enforcement of an *unfair* market economy governed by the forces of supply and demand or for sabotaging the fair negotiation of prices through the formation of cartels and hoarding, the protestors offered the authorities a way forward: reign in on the merchants, re-establish authority over public affairs, and win our continued loyalty as Ottoman subjects.
 
 {>>Ausblick<<}
-
-[img1]: img0001.png "Wheat prices in Bilād al-Shām"
 
 # Notes
 
