@@ -7,13 +7,15 @@ date: 2017-10-03 15:25:01 +0300
 # Important
 
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
-
-- #Td4: point to a table or data set on food riots
 - add references to the maps
+- add references to the dataset and use it for the argument in the section on food prices
 - mention Gelvin in the context of models for and of society
+- footnote on "politics of notables". probably from thesis.
 
 ## done
 
+- introduction
+- #Td4: point to a table or data set on food riots
 - #Td5: write outline of paper
 - #Td6: first footnote on weights and measures. The notes have been written and need to be placed after editing.
 - #Td9: first footnote on repertoire of contention
