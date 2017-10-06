@@ -1,7 +1,7 @@
 ---
 title: "Urban food riots in late Ottoman *Bilād al-Shām* as a 'repertoire of contention'"
 author: Till Grallert
-date: 2017-09-16 01:42:04 +0300
+date: 2017-10-06 14:00:44 +0300
 ORCID: orcid.org/0000-0002-5739-8094
 DOI: doi.org/
 licence: http://creativecommons.org/licenses/by-nd/4.0/
