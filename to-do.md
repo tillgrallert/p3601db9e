@@ -11,6 +11,8 @@ date: 2017-10-03 15:25:01 +0300
 - add references to the dataset and use it for the argument in the section on food prices
 - mention Gelvin in the context of models for and of society
 - footnote on "politics of notables". probably from thesis.
+- comment on women
+- comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 
 ## done
 
