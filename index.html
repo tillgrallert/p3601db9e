@@ -10,300 +10,316 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
   <style type="text/css">
-      /* general settings for the whole page */
-  	 body,
-  	 footer,
-  	 header {
-       	display: block;
-      	background-color: white;
-      	color: black;
-      }
-      body {
-      	/*font-family: Helvetica, Arial, sans-serif;*/
-      	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-      	font-size: 18px;
-      	line-height: 1.5em;
-      	text-align: justify;
-      	margin-left: auto;
-      	margin-right: auto;
-      	padding-right: 60px;
-      	padding-left: 60px;
-      	max-width: 800px;
-      	min-width: 300px;
-      	word-wrap: break-word;
-      	/* counters */
-      	counter-reset: p;
-      }
-      /* automatic numbering */
-      body > p{
-      	counter-increment: p;
-      }
-      body > p:before {
-      	content: "§ " counter(p) " ";
-      	direction:ltr;
-      	vertical-align:top;
-      	font-size: 0.8em;
-      	color: gray;
-      	display: inline-block;
-      	position: relative;
-      	left: -60px;
-      }
-      /* section headings */
-      h1, h2, h3, h4, h5 {
-      	font-family: "American Typewriter", sans-serif;
-      	font-weight: lighter;
-      	margin-top: 1em;
-      	line-height: 1.2em;
-      	text-align: center;
-      }
-      
-      /* spacing / padding between paragraphs */
-      p, ol, ul, li {
-      	/*margin-left: 1em;*/
-      	padding-top: 0.5em;
-      	padding-bottom: 0.5em;
-      	line-height: 1.5em;
-      	margin-block-start:1em;
-      }
-      div.footnotes p {
-      	padding-bottom: 0;
-      	padding-top: 0;
-      }
-      /* code */
-      code {
-      	font-size: 14px;
-      	line-height: 1;
-      	padding-bottom: 0;
-      	padding-top: 0;
-      }
-      
-      /* images */
-      
-      img {
-      	width: 80%;
-      	display: block;
-      	margin-left: 10%;
-      	margin-top: 1em;
-      	background-color: rgba(0,0,0,0.04);
-      	border-radius: 15px;
-      	box-shadow: 2px 2px 5px #000;
-      	border:gray solid 1px;
-      }
-      
-      /* what about captions? */
-      /* they are provided in @alt (inline images) and <figcaption/> (images separated by empty lines) */
-      /* if I render HMTL with Pandoc and Marked, images are rendered as <div class="figure">
-      <img src="img0030.jpg" alt="Fig. 1, Construction works at the new municipality." /><p class="caption">Fig. 1, Construction works at the new municipality.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
-      </div>
-      */
-      figure, 
-      div.figure {
-      	width: 80%;
-      	display: block;
-      	clear: both;
-      	margin-top: 1em;
-      	margin-left: 10%;
-      }
-      figure > img, 
-      div.figure img {
-      	width: 100%;
-      	margin-left: 0;
-      	margin-right: 0;
-      	position: relative;
-      	background-color: rgba(0,0,0,0.04);
-      	border-radius: 15px;
-      	box-shadow: 2px 2px 5px #000;
-      	border:gray solid 1px;
-      }
-      figcaption,
-      p.caption {
-      	width:100%;
-      	position:relative;
-      	display: block;
-      	margin-top: 1em;
-      	font-size:0.8em;
-      	text-align: right;
-      	font-weight:lighter;
-      }   
-      
-      /* tables */
-      
-      table {
-      	border-collapse: collapse;
-      	width:inherit;
-      	padding-top: inherit;
-      	padding-bottom: inherit;
-      }
-      
-      tr.header {
-      	border-bottom: double black;
-      }
-      
-      td {
-      	border-bottom: 1px solid black;
-      	padding-bottom: 0.1em;
-      	padding-top: 0.1em;
-      }
-      
-      /* links */
-      
-      a {
-      	color: orange;
-      	text-decoration: none;
-      }
-      
-      a:visited {
-      	color: #AB1733;
-      	text-decoration: none;
-      }
-      
-      a:hover, a:active {
-      	color: #E62347;
-      	text-decoration: underline;
-      }
-      /* footnotes */
-      a.footnote {
-      	font-size: 0.7em;
-      	vertical-align: super;
-      	display: inline-block;
-      	padding-left: 0.3em;
-      }
-      /* in case of transcriptions, the html might contain pb elements to indicate page breaks in the original */
-      pb:before {
-      	content: " [page " attr(n) "] ";
-      	font-size: 0.8em;
-      	color:#959595;
-      	vertical-align: top;
-      	position: relative;
-      	display: inline-block;
-      	margin-left: 0.5em;
-      	margin-right: 0.5em;
-      }
-      
-      /* navigation */
-      nav {
-      	display: block;
-      	position: fixed;
-      	top: 0px;
-      	width: 300px;
-      	height: 100%;
-      	transition: 0.5s;
-      	/*background-color: #E3DFE0;*/
-      	z-index: 100;
-      	padding-left: 10px;
-      	padding-right: 10px;
-      	font-size: 0.8em;
-      	text-align: left;
-      }
-      
-      nav {
-      	left: -320px;
-      }
-      nav,
-      nav:before {
-      	/*background-color: #F0ECEC;*/
-      	background-color:#AB1733; 
-      }
-      nav *,
-      nav:before {
-      	color:white;
-      }
-      nav a:visited,
-      nav a:hover,
-      nav a:active {
-      	color:white;
-      	text-decoration: none;
-      }
-      /* add button */
-      nav:before {
-      	display: block;
-      	width: 45px;
-      	height: 40px;
-      	position: fixed;
-      	left: -5px;
-      	top: 20px;
-      	content: "\2261";
-      	font-size: 40px;
-      	/*background-color: #E3DFE0;*/
-      	/*border-bottom-left-radius: 5px;*/
-      	border-bottom-right-radius: 5px;
-      	/*border-top-left-radius: 5px;*/
-      	border-top-right-radius: 5px;
-      	box-sizing: border-box;
-      	cursor: pointer;
-      	padding-bottom: 5px;
-      	padding-left: 15px;
-      	padding-right: 10px;
-      	padding-top: 5px;
-      	transition: 0.5s;
-      }
-      /*hover state*/
-      nav:hover {
-      	left: 0px;
-      	top: 0px;
-      }
-      nav:hover:before {
-      	left: 315px;
-      }
-      nav ul,
-      nav li {
-      	list-style: none;
-      	padding-top: 0.5em;
-      	padding-bottom: 0;
-      	/*margin-top: 10px;*/
-      	line-height: 1.5em;
-      	margin-block-start:0;
-      }
-      /* footer and header */
-      footer {
-      	border-top: 1px solid black;
-      	padding-top: 5px;
-      	/*fixed display at the bottom of the page */
-      	display: block;
-      	position: fixed;
-      	bottom: 0px;
-      	margin-left: 0px;
-      	margin-right: 0px;
-      	left: 0px;
-      	width: 100%;
-      	height: 30px;
-      	font-family: "Source Sans Pro",sans-serif;
-      	font-size: 16px;
-      }
-      footer * {
-      	background-color: inherit;
-      	font-family: inherit;
-      	font-size: inherit;
-      	margin-top:0px;
-      	margin-bottom: 0px;
-      }
-      span.c_info {
-      	display: block;
-      	padding-left: 5px;
-      	padding-right: 5px;
-      	margin-left: auto;
-      	margin-right: auto;
-      }
-      footer img {
-      	display: inline;
-      	background-color: inherit;
-      	border-radius: 0px;
-      	box-shadow: none;
-      	border:none;
-      	margin-left: 5px;
-      	margin-right: 5px;
-      }
-      span.c_license img {
-      	width: 60px;
-      }
-      
-      /* show urls in print */
-      @media print {
-      	a[href]:after {
-      		content: " (" attr(href) ") ";
-      	}
-      }
-  </style>
+        /* general settings for the whole page */
+       body,
+       footer,
+       header {
+          display: block;
+          background-color: white;
+          color: black;
+        }
+        body {
+          /*font-family: Helvetica, Arial, sans-serif;*/
+          font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+          font-size: 18px;
+          line-height: 1.5em;
+          text-align: justify;
+          margin-left: auto;
+          margin-right: auto;
+          padding-right: 60px;
+          padding-left: 60px;
+          max-width: 800px;
+          min-width: 300px;
+          word-wrap: break-word;
+          /* counters */
+          counter-reset: p;
+        }
+        /* automatic numbering */
+        body > p{
+          counter-increment: p;
+        }
+        body > p:before {
+          content: "§ " counter(p) " ";
+          direction:ltr;
+          vertical-align:top;
+          font-size: 0.8em;
+          color: gray;
+          display: inline-block;
+          position: relative;
+          left: -60px;
+        }
+        /* section headings */
+        h1, h2, h3, h4, h5 {
+          font-family: "American Typewriter", sans-serif;
+          font-weight: lighter;
+          margin-top: 1em;
+          line-height: 1.2em;
+          text-align: center;
+        }
+        
+        /* spacing / padding between paragraphs */
+        p, ol, ul, li {
+          /*margin-left: 1em;*/
+          padding-top: 0.5em;
+          padding-bottom: 0.5em;
+          line-height: 1.5em;
+        }
+        div.footnotes p {
+          padding-bottom: 0;
+          padding-top: 0;
+        }
+        /* code */
+        code {
+          font-size: 14px;
+          line-height: 1;
+          padding-bottom: 0;
+          padding-top: 0;
+        }
+        
+        /* images */
+        
+        img {
+          width: 80%;
+          display: block;
+          margin-left: 10%;
+          margin-top: 1em;
+          background-color: rgba(0,0,0,0.04);
+          border-radius: 15px;
+          box-shadow: 2px 2px 5px #000;
+          border:gray solid 1px;
+        }
+        
+        /* what about captions? */
+        /* they are provided in @alt (inline images) and <figcaption/> (images separated by empty lines) */
+        /* if I render HMTL with Pandoc and Marked, images are rendered as <div class="figure">
+        <img src="img0030.jpg" alt="Fig. 1, Construction works at the new municipality." /><p class="caption">Fig. 1, Construction works at the new municipality.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
+        </div>
+        */
+        figure, 
+        div.figure {
+          width: 80%;
+          display: block;
+          clear: both;
+          margin-top: 1em;
+          margin-left: 10%;
+        }
+        figure > img, 
+        div.figure img {
+          width: 100%;
+          margin-left: 0;
+          margin-right: 0;
+          position: relative;
+          background-color: rgba(0,0,0,0.04);
+          border-radius: 15px;
+          box-shadow: 2px 2px 5px #000;
+          border:gray solid 1px;
+        }
+        figcaption,
+        p.caption {
+          width:100%;
+          position:relative;
+          display: block;
+          margin-top: 1em;
+          font-size:0.8em;
+          text-align: right;
+          font-weight:lighter;
+        }   
+        
+        /* tables */
+        table {
+          display: block;
+          width:inherit;
+          margin-left: auto;
+          margin-right: auto;
+          padding-top: inherit;
+          padding-bottom: inherit;
+          border-collapse: collapse;
+          /* use smaller font-size than the surrounding text*/
+          font-size: 0.7em;
+        }
+        
+        tr.header {
+          border-bottom: double black;
+        }
+        tr {
+          border-bottom: 1px solid black;
+        }
+        th,
+        td {
+          text-align: left;
+          padding-bottom: 0.1em;
+          padding-top: 0.1em;
+          padding-left: 0.5em;
+          padding-right: 0.5em;
+        }
+        
+        /* links */
+        a {
+          color: orange;
+          text-decoration: none;
+        }
+        
+        a:visited {
+          color: #AB1733;
+          text-decoration: none;
+        }
+        
+        a:hover, a:active {
+          color: #E62347;
+          text-decoration: underline;
+        }
+        /* footnotes */
+        a.footnote {
+          font-size: 0.7em;
+          vertical-align: super;
+          display: inline-block;
+          padding-left: 0.3em;
+        }
+        /* in case of transcriptions, the html might contain pb elements to indicate page breaks in the original */
+        pb:before {
+          content: " [page " attr(n) "] ";
+          font-size: 0.8em;
+          color:#959595;
+          vertical-align: top;
+          position: relative;
+          display: inline-block;
+          margin-left: 0.5em;
+          margin-right: 0.5em;
+        }
+        
+        /* navigation */
+        nav {
+          display: block;
+          position: fixed;
+          /* vertical scrolling */
+          overflow-y: auto;
+          top: 0px;
+          width: 300px;
+          height: 100%;
+          transition: 0.5s;
+          /*background-color: #E3DFE0;*/
+          z-index: 100;
+          padding-left: 10px;
+          padding-right: 10px;
+          font-size: 0.8em;
+          text-align: left;
+        }
+        
+        nav {
+          left: -320px;
+        }
+        nav,
+        nav:before {
+          /*background-color: #F0ECEC;*/
+          background-color:#AB1733; 
+        }
+        nav *,
+        nav:before {
+          color:white;
+        }
+        nav a:visited,
+        nav a:hover,
+        nav a:active {
+          color:white;
+          text-decoration: none;
+        }
+        /* add button */
+        nav:before {
+          display: block;
+          width: 45px;
+          height: 40px;
+          position: fixed;
+          left: -5px;
+          top: 20px;
+          content: "\2261";
+          font-size: 40px;
+          /*background-color: #E3DFE0;*/
+          /*border-bottom-left-radius: 5px;*/
+          border-bottom-right-radius: 5px;
+          /*border-top-left-radius: 5px;*/
+          border-top-right-radius: 5px;
+          box-sizing: border-box;
+          cursor: pointer;
+          padding-bottom: 5px;
+          padding-left: 15px;
+          padding-right: 10px;
+          padding-top: 5px;
+          transition: 0.5s;
+        }
+        /*hover state*/
+        nav:hover {
+          left: 0px;
+          top: 0px;
+        }
+        nav:hover:before {
+          left: 315px;
+        }
+        nav ul,
+        nav li {
+          list-style: none;
+          padding-top: 0.5em;
+          padding-bottom: 0;
+          /*margin-top: 10px;*/
+          line-height: 1.5em;
+          /*margin-block-start:0;*/
+        }
+        nav ol,
+        nav ul {
+          margin-block-start:0;
+          margin-block-end:0;
+          /* add indention of nested lists */
+          padding-inline-start:20px;
+        }
+        /* footer and header */
+        footer {
+          border-top: 1px solid black;
+          padding-top: 5px;
+          /*fixed display at the bottom of the page */
+          display: block;
+          position: fixed;
+          bottom: 0px;
+          margin-left: 0px;
+          margin-right: 0px;
+          left: 0px;
+          width: 100%;
+          height: 30px;
+          font-family: "Source Sans Pro",sans-serif;
+          font-size: 16px;
+        }
+        footer * {
+          background-color: inherit;
+          font-family: inherit;
+          font-size: inherit;
+          margin-top:0px;
+          margin-bottom: 0px;
+        }
+        span.c_info {
+          display: block;
+          padding-left: 5px;
+          padding-right: 5px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        footer img {
+          display: inline;
+          background-color: inherit;
+          border-radius: 0px;
+          box-shadow: none;
+          border:none;
+          margin-left: 5px;
+          margin-right: 5px;
+        }
+        span.c_license img {
+          width: 60px;
+        }
+        
+        /* show urls in print */
+        @media print {
+          a[href]:after {
+            content: " (" attr(href) ") ";
+          }
+        }
+    </style>
   <style type="text/css">
   /* these styles mirror oXygen's highlight colours for XML */
   pre.sourceCode {
@@ -318,25 +334,25 @@
   }
   /* xml element names */
   .xml > code > span.kw {
-  	color: #0F0F9C;
-  	font-weight: bold;
+    color: #0F0F9C;
+    font-weight: bold;
   }
   /* xml attribute names */
   .xml > code > span.ot {
-  	color:#FF8041;
+    color:#FF8041;
   }
   /* xml attribute values */
   .xml > code > span.st {
-  	color:#993300;
+    color:#993300;
   }
   /* xml comments */
   .xml > code > span.co {
-  	color:#167116;
-  	font-style: italic;
+    color:#167116;
+    font-style: italic;
   }
   /* xml computing instructions: not implemented in Pandoc syntax highlighting */
   /* .xml > code > span {
-  	color:#9132CC;
+    color:#9132CC;
   } */
   </style>
 </head>
@@ -372,7 +388,8 @@
     pandoc -s -S -f markdown -t html5 food-riots_2017-09-15.md -o food-riots_2017-09-15.html
 -->
 <h1 id="about">About</h1>
-<p>This paper is based on a presentation titled “Women in the streets! Urban food riots in late Ottoman <em>Bilād al-Shām</em>”, which I gave at the</p>
+<p>This paper is based on a presentation titled “Women in the streets! Urban food riots in late Ottoman <em>Bilād al-Shām</em>”, which I gave at the conference <a href="https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa">“The ‘Dangerous Classes’ in the Middle East and North Africa”</a>, St. Antony’s college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.</p>
+<p>To comment / review / annotate this paper via hypothes.is click <a href="https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/gh-pages/index.html">here</a></p>
 <h1 id="introduction">Introduction</h1>
 <p>{&gt;&gt;## Vignette&lt;&lt;}</p>
 <p>On 21 August 1908, less than four weeks after the restoration of the constitution in the Ottoman Empire, the daily newspaper <em>Lisān al-Ḥāl</em> from Beirut published the following article:</p>
@@ -388,7 +405,7 @@
 <blockquote>
 <p>Yesterday [20. August] they again gathered and decided amongst them to repeat their demonstrations (<em>muẓāharāt</em>) today. Thus they roamed the stores of wheat and all other places where flours is sold. They also demonstrated in expression of their dissatisfaction with the high prices of meat etc.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
 </blockquote>
-<p>Despite the officials’ promises and explanations the “flour calamity” continued: grain prices remained at a constant height at Ps 60-62 per <em>kile</em><a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> for the best quality of wheat and Ps 35-42 for a <em>kile</em> of wheat from the Ḥawrān throughout the month of August.<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> Some three weeks after the food riot unspecified “poor people” of Beirut approached the governor general Nāẓim Pasha—already the third in this post since the August incidents—on the occasion of Sultan ʿAbdülḥamīd II’s birthday on 16 Shaʿbān 1326 (15 September) with a call to reign in on the merchants and to adopt sufficient measures against the high prices of flour and bread. The merchants claimed their suppliers in the neighbouring province of Syria were responsible and thus Nāẓim Pasha contented himself with establishing an inquiry and an appeal to the merchants to lower prices in accordance with the result of this inquiry. The last thing we hear of this matter is that the governor general was still waiting for an answer from Damascus.<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></p>
+<p>Despite the officials’ promises and explanations the “flour calamity” continued: grain prices remained at a constant height at Ps 60 to 62 per <em>kile</em><a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> for the best quality of wheat and Ps 35 to 42 for a <em>kile</em> of wheat from the Ḥawrān throughout the month of August.<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> Some three weeks after the food riot unspecified “poor people” of Beirut approached the governor general Nāẓim Pasha—already the third in this post since the August incidents—on the occasion of Sultan ʿAbdülḥamīd II’s birthday on 16 Shaʿbān 1326 (15 September) with a call to reign in on the merchants and to adopt sufficient measures against the high prices of flour and bread. The merchants responded by claiming that their suppliers in the neighbouring province of Syria were the ones responsible. Thus, Nāẓim Pasha contented himself with establishing an inquiry and an appeal to the merchants to lower prices in accordance with the result of this inquiry. The last thing we hear of this matter is that the governor general was still waiting for an answer from Damascus.<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></p>
 <!-- ## First observations, core question ## -->
 <p>The incident is puzzling: Poor people, suffering from high prices of flour and bread, repeatedly take to the streets in demand for lower prices and in rather orderly fashion. They gather at the seat of the local authorities, complain about greedy merchants, and demonstrate for effective price controls. They do not resort to looting despite flour and wheat being apparently readily available in the city. Even when breaking into warehouses (at the customs) they do not apprehend the food they claim to be unable to afford. They scatter it on the floor instead to prevent its export from the city, which they identified as one of the main reasons for its elevated price. Finally, they failed in achieving any immediate reduction in prices, which remained at an increased level despite the authorities’ promises to the contrary. The main question is thus twofold: Why did the protestors opt for this particular form of contentious action even though it proved ultimately unsuccessful and why did they not violently take the food available in the market?</p>
 <!-- ## Introduce my case studies and core argument ## -->
@@ -761,7 +778,7 @@
 <p>Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line. Some early and generic reports also mentioned the looting of flour and bread from bakeries.<a href="#fn93" class="footnoteRef" id="fnref93"><sup>93</sup></a></p>
 <p>{&gt;&gt;# 1. Demonstration at the Serail&lt;&lt;}</p>
 <p>Reports agree that the first confrontation between protestors and the authorities took place in front of the Serail.<a href="#fn94" class="footnoteRef" id="fnref94"><sup>94</sup></a> Earlier reports claim that, having met no resistance, the crowds went to the warehouses in the vicinity of the government Serail in the afternoon, which they broke into and began to loot.<a href="#fn95" class="footnoteRef" id="fnref95"><sup>95</sup></a> According to <em>al-Ittiḥād al-ʿUthmānī</em>, popular hearsay later blamed Maḥmūd ʿAjam for inciting the crowds to turn to the government Serial and the Ottoman bank in his attempts to protect the warehouses.<a href="#fn96" class="footnoteRef" id="fnref96"><sup>96</sup></a> The final report in the same newspaper, published nine days after the events, claimed that the crowd marched through the streets and directly to the Serail, “shouting slogans, swearing and cursing (<em>maʿnāhu al-sibb wa-l-shatm</em>) everybody not marching with them”.<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a> There they held a demonstration and called on the authorities to reign in on the merchants and prevent them from exporting grain from the city.</p>
-<p>Be that as it may, crowds had gathered on the square in front of the Serail where the Kaimakam, ʿAṭā Allah Bey al-Ayyūbī, and 3-4 gendarmes and police confronted them.<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a> He delivered a speech, threatening, pleading, cautioning, and promising to cut the price to Ps 3 for [a <em>ratl</em> of]{&gt;&gt;#td7&lt;&lt;} flour{– for them–}.<a href="#fn99" class="footnoteRef" id="fnref99"><sup>99</sup></a> According to Aḥmad Kurd ʿAlī, the crowds rejoiced over the announcements of the Kaimakam and would have left, if it had not been for some riff-raff among them.<a href="#fn100" class="footnoteRef" id="fnref100"><sup>100</sup></a> A certain T.ʿ.M. reported in <em>al-Ittiḥād al-ʿUthmānī</em> how some of the nobles and officials began to disperse the crowds after the speech of the Kaimakam and thus initiated a skirmish of thrown stones in the course of which the demonstrators realised their strength and then began to attack warehouses.<a href="#fn101" class="footnoteRef" id="fnref101"><sup>101</sup></a> However the violent confrontation might have begun, the kaimakam gathered all the gendarmes he could muster—about ten men—and ordered them to shoot into the air to disperse the protestors. The protestors fled the shooting but at least two groups went on: one stayed in town and looted further warehouses, the other attacked the railway station.<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a> Meanwhile the Kaimakam called for reinforcements from Hama and Damascus.</p>
+<p>Be that as it may, crowds had gathered on the square in front of the Serail where the Kaimakam, ʿAṭā Allah Bey al-Ayyūbī, and 3–4 gendarmes and police confronted them.<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a> He delivered a speech, threatening, pleading, cautioning, and promising to cut the price to Ps 3 for [a <em>ratl</em> of]{&gt;&gt;#td7&lt;&lt;} flour{– for them–}.<a href="#fn99" class="footnoteRef" id="fnref99"><sup>99</sup></a> According to Aḥmad Kurd ʿAlī, the crowds rejoiced over the announcements of the Kaimakam and would have left, if it had not been for some riff-raff among them.<a href="#fn100" class="footnoteRef" id="fnref100"><sup>100</sup></a> A certain T.ʿ.M. reported in <em>al-Ittiḥād al-ʿUthmānī</em> how some of the nobles and officials began to disperse the crowds after the speech of the Kaimakam and thus initiated a skirmish of thrown stones in the course of which the demonstrators realised their strength and then began to attack warehouses.<a href="#fn101" class="footnoteRef" id="fnref101"><sup>101</sup></a> However the violent confrontation might have begun, the kaimakam gathered all the gendarmes he could muster—about ten men—and ordered them to shoot into the air to disperse the protestors. The protestors fled the shooting but at least two groups went on: one stayed in town and looted further warehouses, the other attacked the railway station.<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a> Meanwhile the Kaimakam called for reinforcements from Hama and Damascus.</p>
 <p>{&gt;&gt;# 2.1 Looting of warehouses&lt;&lt;}</p>
 <p>One part of the crowd went from the square of the Serail to the warehouses of the grain merchants and looted the stores of Muṣṭafā ʿAbbās, Najīb Laṭīf, and Muṣṭafā Efendi Arslān in the vicinity of the municipal gardens adjacent to the Serail.<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></p>
 <p>{&gt;&gt;# 3. attack on the Tripoli-Ḥomṣ coach road station&lt;&lt;}</p>
