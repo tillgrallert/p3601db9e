@@ -19,9 +19,11 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 # About
 
-This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I gave at the conference ["The 'Dangerous Classes' in the Middle East and North Africa"](https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa), St. Antony's college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.
+>This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I gave at the conference ["The 'Dangerous Classes' in the Middle East and North Africa"](https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa), St. Antony's college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.
 
-To comment / review / annotate this paper via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/gh-pages/index.html)
+>The current draft still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup.
+
+>To comment / review / annotate this paper via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/gh-pages/index.html)
 
 # Introduction
 
