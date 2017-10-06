@@ -104,7 +104,6 @@ Date | Place
 1878-03 | Damascus
 1880-03-14 | Beirut
 1908-08-19 | Beirut
-1908-09-16 | Baghdad {>>cut this line<<}
 1910-06 | Aleppo
 1910-07-02 | Damascus
 1910-08-11 | Hama
@@ -137,7 +136,6 @@ Date | Place | 1. high prices | 2. timing | 3. crowd gathers | 4. seat of author
 1878-03 | Damascus | x | x | x | x | - | - | x | x | x | 7
 1880-03-14 | Beirut | x | - | x | - | - | x | x | x | - | 5
 1908-08-19 | Beirut | x | x | x | x | x | - | x | x | x | 8
-1908-09-16 | Baghdad | x | - | x | x | - | x | - | - | - | 4 {>>cut this line<<}
 1910-06 | Aleppo | x | - | x | - | x | x | x | x | x | 7
 1910-07-02 | Damascus | x | x | x | x | - | - | x | x | x | 7
 1910-08-11 | Hama | x | x | x | x | x | x | x | x | - | 8
