@@ -449,9 +449,9 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^cf36]: {muqtabas 561-eap}
 
-[^fn20]: Thus in May, when large rallies against the Greece intervention in Crete were staged on in many if not most cities of the empire; e.g. {jarmuq 378; jarmuq 379; jarmuq 380; Young 1910}.
+[^fn20]: Thus in May, when large rallies against the Greece intervention in Crete were staged on in many if not most cities of the empire; e.g. {jarmuq 378@3}{jarmuq 379@3}{jarmuq 380@3}{Young 1910}{iqbal 9-349@5-6}{lisan 6355@2}{iqbal 9-352@5}{lisan 6356@2}.
 <!-- Damascus: {jarmuq 378@3}{jarmuq 379@3}{jarmuq 380@3}{Young 1910} -->
-<!-- Beirut: {iqbal 9-349@5-6}{lisan 6355@2{iqbal 9-352@5}} -->
+<!-- Beirut: {iqbal 9-349@5-6}{lisan 6355@2}{iqbal 9-352@5} -->
 <!-- Haifa: {lisan 6356@2} -->
 
 [^cf37]: {jarmuq 429; lisan 6385; jarmuq 430}
