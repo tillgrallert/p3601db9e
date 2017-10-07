@@ -345,7 +345,7 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^cf1]: {lisan 5795a@3}
 
-[^fn3]: The bushel (*kile*) was the basic unit of the cereals trade (grain, flour, and dough) in the Ottoman Empire and across *Bilād al-Shām*. Centralisation efforts to establish an imperial standard bushel (*Istanbul kilesi* or new *kile*) of 40 litre were not successful. In *Bilād al-Shām* a *kile* equalled about 36,8 litre. The *kile* was divided into 2 *madd* and also referred to as *jift* (Ottoman *çift*: pair). A less common volume was the *shunbul*, which equalled 3 *kile* in Aleppo and 2,25 *kile* in the ports of Tripoli and Acr; {AlQasimi 1960b@291; PoidsMesuresMonnaiesEt 2002@6-7; Inalcik 1985@333; Mishāqa 1889n; lisan 645a; Mishāqa 1889o; Devey 1912a}.
+[^fn3]: The bushel (*kile*) was the basic unit of the cereals trade (grain, flour, and dough) in the Ottoman Empire and across *Bilād al-Shām*. The *kile* was divided into 2 *madd* and also referred to as *jift* (Ottoman *çift*: pair). Centralisation efforts to establish an imperial standard bushel (*Istanbul kilesi* or new *kile*) of 40 litre were not successful. In *Bilād al-Shām* a *kile* equalled about 36,8 litre.  A less common volume was the *shunbul*, which equalled 3 *kile* in Aleppo and 2,25 *kile* in the ports of Tripoli and Acre; {AlQasimi 1960b@291; PoidsMesuresMonnaiesEt 2002@6-7; Inalcik 1985@333; Mishāqa 1889n; lisan 645a; Mishāqa 1889o; Devey 1912a}.
 
 [^cf2]: {bashir 39-1869;bashir 39-1871;bashir 39-1873}
 
