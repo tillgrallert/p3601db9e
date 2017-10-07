@@ -7,12 +7,14 @@ date: 2017-10-03 15:25:01 +0300
 # Important
 
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
-- add references to the maps
+- change structure:
+    + move vignettes to the front of the "food riots" sections
 - add references to the dataset and use it for the argument in the section on food prices
 - comment on women
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 - comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
-- ask Yvonne if and how to reference maps
+- ask Yvonne if and how to reference maps: probably not
+    + add references to the maps
 
 ## done
 
