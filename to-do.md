@@ -13,6 +13,7 @@ date: 2017-10-03 15:25:01 +0300
 - footnote on "politics of notables". probably from thesis.
 - comment on women
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
+- comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
 
 ## done
 
