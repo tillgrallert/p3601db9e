@@ -12,10 +12,13 @@ markdown:
 include-after: <footer><span class="c_info c_license"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.</span></footer>
 ---
 
-<!-- 
-    pandoc -F pandoc-crossref -s -S -f markdown -t docx food-riots_2017-09-15.md -o food-riots_2017-09-15.docx 
-    pandoc -s -S -f markdown -t html5 food-riots_2017-09-15.md -o food-riots_2017-09-15.html
--->
+<!-- # processing instructions -->
+<!-- ## 1. HTML -->
+<!-- pandoc -s -S -f markdown -t html5 --toc --include-in-header=/BachUni/programming/Pandoc/css-pandoc_online-publication.txt --include-in-header=/BachUni/programming/Pandoc/css-pandoc_code-highlight_oxygen-xml.txt --email-obfuscation=javascript urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o index.html -->
+<!-- ## 2. DOCX -->
+<!-- pandoc -F pandoc-crossref -s -S -f markdown -t docx urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.docx -->
+    
+
 
 # About
 
