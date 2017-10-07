@@ -3,7 +3,7 @@ title: "Urban food riots in late Ottoman *Bilād al-Shām* as a 'repertoire of c
 author: Till Grallert
 date: 2017-10-06 14:00:44 +0300
 ORCID: orcid.org/0000-0002-5739-8094
-DOI: doi.org/
+DOI: doi.org/10.5281/zenodo.1001636
 licence: http://creativecommons.org/licenses/by-nd/4.0/
 markdown: 
  - multimarkdown
@@ -18,7 +18,16 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 <!-- ## 2. DOCX -->
 <!-- pandoc -F pandoc-crossref -s -S -f markdown -t docx urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.docx -->
     
-
+<div id="sec-badges" class="c_badges">
+<!-- ORCID -->
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5739-8094)
+<!-- licence -->
+[![CC BY-ND 4.0](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nd/4.0/)
+<!-- release -->
+[![GitHub release](https://img.shields.io/github/release/tillgrallert/p3601db9e.svg?maxAge=2592000)](https://github.com/tillgrallert/p3601db9e/releases)
+<!-- DOI -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1001636.svg)](https://doi.org/10.5281/zenodo.1001636)
+</div>
 
 # About {#sec-about}
 
