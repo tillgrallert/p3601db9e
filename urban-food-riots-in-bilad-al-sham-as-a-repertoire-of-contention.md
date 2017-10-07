@@ -20,13 +20,13 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
     
 
 
-# About
+# About {#sec-about}
 
 >This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I gave at the conference ["The 'Dangerous Classes' in the Middle East and North Africa"](https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa), St. Antony's college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.
 
 >The current stable draft of this paper is version [v0.1](https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html) and contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate this version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p3601db9e/gh-pages/index.html).
 
-# Introduction
+# Introduction {#sec-introduction}
 
 <!-- ## Vignette -->
 
@@ -80,7 +80,7 @@ Scholars also observed that and tried to explain why "Initiators of the [early m
 
 With regards to the Middle East, crowds, collective action, and popular contentions have become the core of scholarly scrutiny as well as political and public discourses since the beginning of the ill-labelled Arab Spring.[^fn7] Historical studies have mentioned urban food riots in the Middle East in passing,[^cf19] including some the riots that form the sample for the present study.[^cf20] Yet, the genealogy of popular participation and urban popular contentions in the Middle East remains largely obscure on the empirical as well as the analytical level.[^fn8]{>>Some comments on the recent books by Chalcraft and Tripp<<} Almost thirty years ago Edmund Burke III presented the first foray into a systematic study of collective action in the Middle East over the *longue durée*. He followed the lead of E.P. Thompson and Charles Tilly in abolishing the old cliché of mindless and spontaneous mobs and forwarded three broad claims in his attempt to apply Tilly's "repertoire of contention" to historical Middle Eastern societies: Firstly, that the contentious repertoire *remained* Islamic, arguing that "movements invariably began in the chief mosque of the city",[^cf21] where contentious claims were negotiated among the crowds before *ʿulamāʾ* emissaries were sent to the rulers for negotiations and before the crowds marched onto the authorities; secondly, that the crowds targeted{>>/looted?<<} stores and barns; and thirdly that food riots were absent from the protest forms of the nineteenth century.[^fn9] All three claims are proven wrong by the case studies presented in this paper.[^fn10]
 
-# Food prices and food riots
+# Food prices and food riots {#sec-prices}
 
 Reliable economic data for historical societies of the Middle East is difficult to come by. This is not so much due to a shortage of sources, but larger academic trends away from quantitative economic micro history and the tedious nature of the compilation process. Export statistics from various ports in the Eastern Mediterranean can be gleaned from consular reports[^fn11]; records of the grain exchange in Istanbul are available for scholarly scrutiny; and most newspapers published regular accounts of staple goods and their prices. It seems, however, that only Donald Quataert's seminal thesis on agriculture in Anatolia undertook the task to compile and publish detailed time series of grain prices.[^cf22] Others either published edited consular sources[^cf23] or provide only very limited quantitative data.[^cf24]
 
@@ -122,7 +122,7 @@ There were, of course, local factors that contributed to decision whether to eng
 
 On the other hand, the comparison of prices and the occurrence of food riots reveals the inherent failure of these contentious performances in bringing about lower food prices in the short term. We will return to this point in the following section of this paper.<!--  This probably needs another sentence -->
 
-# The repertoire of the food riot
+# The repertoire of the food riot {#sec-repertoire}
 
 <!-- ## Intro ## -->
 
@@ -328,7 +328,7 @@ In Damascus, the price of wheat fell to Ps 53 per *kile*[^cf103] on 2 July 1910,
 
 Two weeks after the food riot on 17 February 1913 in Damascus, *al-Muqtabas* reported a 30 per cent drop in the price of a *wazna* of flour from Ps 6"20 to Ps 4"20.[^cf105] A day later, on 3 March, the *baladiyya* set a new maximum price for the *raṭl* of bread at Ps 4.[^cf106] However, on 6 March, *al-Muqtabas* stated that against all hopes the price of grain had not fallen.[^cf107] The MP for Damascus, Shukrī al-ʿAsalī, lobbied for easing the price of wheat through lifting all import customs for the duration of two months[^cf108] but at the end of March, wheat was still sold at Ps 59 to 65 per *kile* because up to three quarters of all millers did not adhere to the prices established by the *baladiyya*. Therefore a meeting of millers and flour merchants was convened at the municipality on 30 March[^cf109], at which the merchants claimed they could not possibly buy wheat at lower prices and that they would have to sell at even higher prices in consequence.[^cf110] Prices reached up to Ps 80 per *kile* of wheat a week later.[^cf111]
 
-# Conclusion
+# Conclusion {#sec-conclusion}
 
 <!-- Look at form, demand/claim, and function -->
 
