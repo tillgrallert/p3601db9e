@@ -121,7 +121,7 @@ There were, of course, local factors that contributed to decision whether to eng
 
 On the other hand, the comparison of prices and the occurrence of food riots reveals the inherent failure of these contentious performances in bringing about lower food prices in the short term. We will return to this point in the following section of this paper.<!--  This probably needs another sentence -->
 
-# The repertoire
+# The repertoire of the food riot
 
 <!-- ## Intro ## -->
 
@@ -149,7 +149,7 @@ Date | Place | 1. high prices | 2. timing | 3. crowd gathers | 4. seat of author
 
 Table: Sample of food riots and the elements of the repertoire {#tbl:repertoire}
 
-## 1. Prologue
+## The prologue
 
 All food riots were preceded by extended periods of hardship and elevated food prices during which a discourse on *artificially* high prices surfaced in the written sources. The exact timing of the contentious collective action itself then depended on local circumstances.
 
@@ -179,13 +179,13 @@ Thus, the food riot of August 1908 in Beirut took place in a time of political t
 
 In March 1878, the governor general of Syria, Cevdet Pasha was new to Damascus and all but one battalion of the 5th Army were absent from the city. Upon the public reading of his firmān of appointment on 8 March, he announced the beginning of an era of rule of law and just government.[^cf35] Food riots began on 12 March and intensified until their culmination on 16 March, which happened to be the day of *mawlid nawbawī*, the Prophet's birthday, on 12 Rabīʿ I 1295 aH. Thirty-two years later, another food riot took place in Damascus on 17 February 1913, one day before *mawlid nabawī* 1331 aH.[^cf36]
 
-Similar arguments can be made for the food riots in 1910 in Aleppo, Damascus, Hama, and Homs. Protestors pushed their negotiation power by exercising their constitutional rights to assemble and protest and by employing the new symbolic repertoire of popular rallies and demonstrations---commonly staged in support of the authorities and against foreign enemies[^fn20]{>>Add references to other towns<<}---against the authorities themselves in close temporal proximity to official celebrations of the second anniversary of the restoration of the constitution on 24 July (food riots took place in mid-June in Aleppo, on 2 July in Damascus, on 11 August in Hama and two days later in Homs). In Damascus a new director of police, Nāfidh Efendi, had arrived only the day before the demonstration,[^cf37] while the entire *baladiyya* had stepped down on 15 June over a fiscal scandal surrounding the ʿAyn Fīja project.
+Similar arguments can be made for the food riots in 1910 in Aleppo, Damascus, Hama, and Homs. Protestors pushed their negotiation power by exercising their constitutional rights to assemble and protest and by employing the new {>>needs explanation<<} symbolic repertoire of popular rallies and demonstrations---commonly staged in support of the authorities and against foreign enemies[^fn20]{>>Add references to other towns<<}---against the authorities themselves in close temporal proximity to official celebrations of the second anniversary of the restoration of the constitution on 24 July (food riots took place in mid-June in Aleppo, on 2 July in Damascus, on 11 August in Hama and two days later in Homs). In Damascus a new director of police, Nāfidh Efendi, had arrived only the day before the demonstration,[^cf37] while the entire *baladiyya* had stepped down on 15 June over a fiscal scandal surrounding the ʿAyn Fīja project.
 
-## 2. The food riot
+## The food riot itself
 
 The actual food riot is a bounded event commonly lasting only a few hours. It might be repeated on successive days or within a weeks time but it never continued through the night. Its main characteristics are that large crowds of protestors targeted the authorities in a predominantly peaceful manner calling for the enforcement of *fair* prices (*asʿār muʿatadila*, *taʿdīl al-asʿār*) and that, in the rare cases when violent looting took place, the crowds predominantly looted non-food items.
 
-### 1(3). Formation of a crowd
+### 3. Formation of a crowd
 
 Invariably the food riot commenced with the gathering of a crowd of townspeople---commonly qualified as being from among the poor. Sometimes authors emphasise the inclusive character of the crowd by mentioning men, women, and children, old and young, etc. At least in Damascus, women were portrayed as leading the crowds or even as the majority of participants. Unfortunately the identities of protestors cannot be established beyond such generic descriptions; with a single exception: When a food riot took place in Homs on 13 August 1910,{>> depending on the structure of this section, the following might need to be cut as it is redundant<<} Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him the food riot began with a certain Yūsuf ʿAbyān who 
 
@@ -197,21 +197,21 @@ The terms for labelling the crowds of protestors and their gathering together we
 
 The gathered people were labelled with neutral terms such as *al-qawm* (groups of people)[^cf55], *al-ʿāmma* (the commoners)[^cf56] or *al-shaʿb* (the populace)[^cf57]---unless the food riot turned violent. Then reports immediately switched to terms denouncing the crowds' actions as illicit. {--In such cases--}{++Violent++} protestors were portrait as rebels (*thāʾirūn*[^cf58] or *thuwwār*[^cf59]) and the crowds were denounced as a mob of riff-raff (*al-raʿāʿ*[^cf60] and *al-ghawghāʾ*[^cf61]).
 
-### 2(4). Peaceful demonstration
+### 4. Peaceful demonstration
 
 In most cases{>> but not Aleppo and Homs 1910 <<}the crowd gathered at or marched onto the seat of the local government, be it the municipality, the seat of the district or the provincial authorities. There they peacefully raised their complains of hoarding merchants and their demand for affordable bread and grain through intervention of the authorities, namely the enforcement of the *just price*. What sets food riots apart from other forms of contentious performances, such as the mutiny of soldiers or inter-communal violence, is that protestors took neither recourse to an Islamicate repertoire nor to the "politics of notables": We do not have a single report of crowds assembling at a central mosque or of notables acting as intermediaries between the populace and the ruling authorities.[^fn21]
 
-### 3(5). Dissolution of the crowd or escalation into a riot
+### 5. Dissolution of the crowd or escalation into a riot
 
 The authorities attempt to appease the crowds, acknowledging and affirming the inherent legitimacy and justness of their demands and trying to dissolve the potentially dangerous gathering through a combination of promises, threats and real violence. In those instances when crowds, making use of the urban topography and the most prominent square in town, did not gather in front of highest political authority, the head of the *baladiyya* or the *kaimakam* at whose offices the demonstration took place tried to redirect the crowd's anger to the higher authority of the *vali* or *mutaṣarrif*. 
 
 The authorities' initial reaction was the decisive factor in deciding whether a rather peaceful demonstration turned into a violent riot and looting. If they failed in their attempt to ultimately dissolve the crowd by whatever means, the agitated crowd began roaming the streets and searched for other targets.
 
-### 4(6). (optional) Rioting and looting
+### 6. (optional) Rioting and looting
 
 Crowds finally turned on the merchant class identified as responsible for the general calamity both by the protestors and the authorities. Groups of people violently loot warehouses and stores. They particularly target warehouses at railway and coach stations as part of the vilified export trade. However, in all but one case, when grain storages are looted at the railway station of Homs, the looters preferred anything but food and thus seem destined to inflict harm upon their oppressors rather than interested in satisfying their demand for food. Local authorities, already tainted by their earlier failure are portrayed as utterly helpless and incompetent during the violent part of the collective action.
 
-### 5(7). Successful intervention of the highest representative of the central authorities ###
+### 7. Successful intervention of the highest representative of the central authorities ###
 
 Peace and tranquillity as the defining basis of Ottoman political legitimacy---*asāyiş-i ʿumūmī* or *al-rāḥa al-ʿumūmiyya*---are finally re-established by the intervention of the highest representative of the central authorities, namely the *vali* or the *mutaṣarrif*, and with the help of imperial troops or the gendarmerie.
 
@@ -241,7 +241,7 @@ The crowds could roam the street for two and a half hours without any interventi
 
 <!-- mention inspiration by the events in Hama only days before -->
 
-Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---men, women, and children, old and young (this is repeated over and over again)---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya. They gathered without weapons but allegedly with the intent to loot and plunder the grain stores. {--Merchants closed their shops and stores in fear. According to Aḥmad Kurd ʿAlī, the incident began when a certain {>> Cut the following if it was already quoted above<<} Yūsuf ʿAbyān "wanted to buy flour in the quarter called Bāb Tadmur to the east of Homs. But what he wanted could not be obtained because the city had been devoid of this item according to what some papers have written. The man took off his shoes, put both of them on a stick, and began to run and yell: 'oh poor, I am your father. I sacrificed my life for your sake' (*ayyuhā al-fuqarāʾ fa-ana abūkum afādī bi-ḥayātī fī sabīlikim*)."[^cf71]--}{++As mentioned above, the whole affair allegedly began when a certain Yūsuf ʿAbyān could find any flour to buy.++}
+Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---men, women, and children, old and young (this is repeated over and over again)---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya. They gathered without weapons but allegedly with the intent to loot and plunder the grain stores. {--Merchants closed their shops and stores in fear. According to Aḥmad Kurd ʿAlī, the incident began when a certain {>> Cut the following if it was already quoted above<<} Yūsuf ʿAbyān "wanted to buy flour in the quarter called Bāb Tadmur to the east of Homs. But what he wanted could not be obtained because the city had been devoid of this item according to what some papers have written. The man took off his shoes, put both of them on a stick, and began to run and yell: 'oh poor, I am your father. I sacrificed my life for your sake' (*ayyuhā al-fuqarāʾ fa-ana abūkum afādī bi-ḥayātī fī sabīlikim*)."[^cf71]--}{++As mentioned above, the whole affair allegedly began when a certain Yūsuf ʿAbyān could not find any flour to buy.++}
 
 <!-- # Unclear sequence -->
 
@@ -275,11 +275,11 @@ When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi 
 
 Looting and violent attacks continued sporadically into the evening with groups of agitated people roaming the streets and inciting speeches being delivered across the town. Crowds only dispersed in the evening when darkness fell.[^cf87]
 
-## 3. aftermath
+## The aftermath
 
 The aftermath of a food riot commonly saw two diametrically opposed developments. On the one had the press published long eulogies of the central authorities in the person of the governor general for punishing the hoarders and for enforcing fair maximum prices. On the other hand, no factual report on actually falling food prices can be found.
 
-### 1(8). Official investigation
+### 8. Official investigation
 
 After violence is quelled or after the peaceful demonstration is dissolved, the highest representative of the central authorities commonly engages in a flurry of activities demonstrating the empire's energetic intervention to restore justice: committees are set up to investigate the (pre-established) cause for high prices, namely hoarding merchants; exports of grain are (again) banned; wholesale merchants are reprimanded for the artificial price hikes; some grain is confiscated from the hoarding merchants (but not re-distributed); and official maximum prices for grain, flour and bread are again published through the officially responsible municipalities. Only in a single instance, when the protestors looted grain stores in Homs in 1910, the authorities prosecuted the protestors themselves. Otherwise, protestors went unpunished (but not necessarily unhurt), which is both an affirmation of their protest's legitimacy (in form and content) and a tacit acknowledgement of the impossibility of effective law enforcement.
 
@@ -311,7 +311,7 @@ That night looters tried to rid themselves of the stolen grain in anticipation o
 
 Finally the local authorities tried to enforce lower prices. Municipal criers walked the streets of Ḥomṣ under orders of the president of the *baladiyya*, Muḥiyī al-Dīn Efendi Shams al-Dīn, announcing the prohibition of grain exports to destinations outside the province. Those found guilty of breaching these orders would be punished and their grain would be seized.[^cf99]
 
-### 2(9). No reports on falling grain prices
+### 9. No reports on falling grain prices
 
 Finally and despite all the praise of a successful intervention by the central authorities, food prices did not fall in any significant way in the immediate aftermath of a food riot. In many instances they even continued to rise before the arrival of new harvests causes the common cyclical decrease.
 
@@ -450,6 +450,9 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 [^cf36]: {muqtabas 561-eap}
 
 [^fn20]: Thus in May, when large rallies against the Greece intervention in Crete were staged on in many if not most cities of the empire; e.g. {jarmuq 378; jarmuq 379; jarmuq 380; Young 1910}.
+<!-- Damascus: {jarmuq 378@3}{jarmuq 379@3}{jarmuq 380@3}{Young 1910} -->
+<!-- Beirut: {iqbal 9-349@5-6}{lisan 6355@2{iqbal 9-352@5}} -->
+<!-- Haifa: {lisan 6356@2} -->
 
 [^cf37]: {jarmuq 429; lisan 6385; jarmuq 430}
 
