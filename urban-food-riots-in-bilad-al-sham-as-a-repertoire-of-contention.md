@@ -23,7 +23,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 >The current draft still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup.
 
->To comment / review / annotate this paper via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/gh-pages/index.html)
+>The current stable draft of this paper is version [v0.1](https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html). To comment / review / annotate this version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p3601db9e/gh-pages/index.html).
 
 # Introduction
 
