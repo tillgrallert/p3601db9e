@@ -313,6 +313,34 @@
         span.c_license img {
           width: 60px;
         }
+        /* badges and shields */
+        /* badges and shields */
+          #sec-badges {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+          #sec-badges a,
+          #sec-badges img {
+            display: inline-block;
+            /*height: 20px;*/
+          }
+          #sec-badges img {
+            height: 25px;
+            background-color: inherit;
+            border-radius: 0px;
+            box-shadow: none;
+            border:none;
+            margin-left: 5px;
+            margin-right: 5px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            padding: 0;
+          }
+          /* author and date */
+          p.date:before {
+            content: "Last edited: "
+          } 
         
         /* show urls in print */
         @media print {
@@ -365,10 +393,10 @@
 </header>
 <nav id="TOC">
 <ul>
-<li><a href="#about">About</a></li>
-<li><a href="#introduction">Introduction</a></li>
-<li><a href="#food-prices-and-food-riots">Food prices and food riots</a></li>
-<li><a href="#the-repertoire-of-the-food-riot">The repertoire of the food riot</a><ul>
+<li><a href="#sec-about">About</a></li>
+<li><a href="#sec-introduction">Introduction</a></li>
+<li><a href="#sec-prices">Food prices and food riots</a></li>
+<li><a href="#sec-repertoire">The repertoire of the food riot</a><ul>
 <li><a href="#the-prologue">The prologue</a><ul>
 <li><a href="#artificially-high-prices">1. Artificially high prices</a></li>
 <li><a href="#advantageous-moment">2. Advantageous moment</a></li>
@@ -385,22 +413,27 @@
 <li><a href="#no-reports-on-falling-grain-prices">9. No reports on falling grain prices</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#sec-conclusion">Conclusion</a></li>
 <li><a href="#notes">Notes</a></li>
 </ul>
 </nav>
-<!-- 
-    pandoc -F pandoc-crossref -s -S -f markdown -t docx food-riots_2017-09-15.md -o food-riots_2017-09-15.docx 
-    pandoc -s -S -f markdown -t html5 food-riots_2017-09-15.md -o food-riots_2017-09-15.html
--->
-<h1 id="about">About</h1>
+<!-- # processing instructions -->
+<!-- ## 1. HTML -->
+<!-- pandoc -s -S -f markdown -t html5 --toc --include-in-header=/BachUni/programming/Pandoc/css-pandoc_online-publication.txt --include-in-header=/BachUni/programming/Pandoc/css-pandoc_code-highlight_oxygen-xml.txt --email-obfuscation=javascript urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o index.html -->
+<!-- ## 2. DOCX -->
+<!-- pandoc -F pandoc-crossref -s -S -f markdown -t docx urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.docx -->
+<div id="sec-badges" class="c_badges">
+<!-- ORCID -->
+<p><a href="https://orcid.org/0000-0002-5739-8094"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" /></a> <!-- licence --> <a href="http://creativecommons.org/licenses/by-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" alt="CC BY-ND 4.0" /></a> <!-- release --> <a href="https://github.com/tillgrallert/p3601db9e/releases"><img src="https://img.shields.io/github/release/tillgrallert/p3601db9e.svg?maxAge=2592000" alt="GitHub release" /></a> <!-- DOI --> <a href="https://doi.org/10.5281/zenodo.1001636"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1001636.svg" alt="DOI" /></a></p>
+</div>
+<h1 id="sec-about">About</h1>
 <blockquote>
 <p>This paper is based on a presentation titled “Women in the streets! Urban food riots in late Ottoman <em>Bilād al-Shām</em>”, which I gave at the conference <a href="https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa">“The ‘Dangerous Classes’ in the Middle East and North Africa”</a>, St. Antony’s college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.</p>
 </blockquote>
 <blockquote>
 <p>The current stable draft of this paper is version <a href="https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html">v0.1</a> and contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate this version via hypothes.is click <a href="https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html">here</a>. The most recent changes are available <a href="https://tillgrallert.github.io/p3601db9e/gh-pages/index.html">here</a>.</p>
 </blockquote>
-<h1 id="introduction">Introduction</h1>
+<h1 id="sec-introduction">Introduction</h1>
 <!-- ## Vignette -->
 <p>On 21 August 1908, less than four weeks after the restoration of the constitution in the Ottoman Empire, the daily newspaper <em>Lisān al-Ḥāl</em> from Beirut published the following article:</p>
 <blockquote>
@@ -435,7 +468,7 @@
 <!-- ## Literature review: middle east studies ## -->
 <!-- Literature review: stark claim: absence of meaningful literature on this topic -->
 <p>With regards to the Middle East, crowds, collective action, and popular contentions have become the core of scholarly scrutiny as well as political and public discourses since the beginning of the ill-labelled Arab Spring.<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a> Historical studies have mentioned urban food riots in the Middle East in passing,<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a> including some the riots that form the sample for the present study.<a href="#fn27" class="footnoteRef" id="fnref27"><sup>27</sup></a> Yet, the genealogy of popular participation and urban popular contentions in the Middle East remains largely obscure on the empirical as well as the analytical level.<a href="#fn28" class="footnoteRef" id="fnref28"><sup>28</sup></a>{&gt;&gt;Some comments on the recent books by Chalcraft and Tripp&lt;&lt;} Almost thirty years ago Edmund Burke III presented the first foray into a systematic study of collective action in the Middle East over the <em>longue durée</em>. He followed the lead of E.P. Thompson and Charles Tilly in abolishing the old cliché of mindless and spontaneous mobs and forwarded three broad claims in his attempt to apply Tilly’s “repertoire of contention” to historical Middle Eastern societies: Firstly, that the contentious repertoire <em>remained</em> Islamic, arguing that “movements invariably began in the chief mosque of the city”,<a href="#fn29" class="footnoteRef" id="fnref29"><sup>29</sup></a> where contentious claims were negotiated among the crowds before <em>ʿulamāʾ</em> emissaries were sent to the rulers for negotiations and before the crowds marched onto the authorities; secondly, that the crowds targeted{&gt;&gt;/looted?&lt;&lt;} stores and barns; and thirdly that food riots were absent from the protest forms of the nineteenth century.<a href="#fn30" class="footnoteRef" id="fnref30"><sup>30</sup></a> All three claims are proven wrong by the case studies presented in this paper.<a href="#fn31" class="footnoteRef" id="fnref31"><sup>31</sup></a></p>
-<h1 id="food-prices-and-food-riots">Food prices and food riots</h1>
+<h1 id="sec-prices">Food prices and food riots</h1>
 <p>Reliable economic data for historical societies of the Middle East is difficult to come by. This is not so much due to a shortage of sources, but larger academic trends away from quantitative economic micro history and the tedious nature of the compilation process. Export statistics from various ports in the Eastern Mediterranean can be gleaned from consular reports<a href="#fn32" class="footnoteRef" id="fnref32"><sup>32</sup></a>; records of the grain exchange in Istanbul are available for scholarly scrutiny; and most newspapers published regular accounts of staple goods and their prices. It seems, however, that only Donald Quataert’s seminal thesis on agriculture in Anatolia undertook the task to compile and publish detailed time series of grain prices.<a href="#fn33" class="footnoteRef" id="fnref33"><sup>33</sup></a> Others either published edited consular sources<a href="#fn34" class="footnoteRef" id="fnref34"><sup>34</sup></a> or provide only very limited quantitative data.<a href="#fn35" class="footnoteRef" id="fnref35"><sup>35</sup></a></p>
 <!-- ## Data collection, bias and limitation of newspapers ## -->
 <p>It is beyond the scope {– It is outside the focus of this paper–} of this paper to describe our price sampling methodologies, the resulting sample and our analysis in detail.{&gt;&gt; This will be done in another paper.&lt;&lt;} A short overview must suffice. Time series of price data were compiled from local {–Beiruti, Damascene, Jerusalemite –}newspapers and supplemented with information from American, British, and German archival documents. While newspapers regularly published prices, the frequency of such publication varied between locations and over time and is largely unpredictable. Prices were published for different purposes and audiences: Lists of current wholesale prices were made available to merchants and without comment; imperial authorities published price lists for tenders to supply the army; local authorities issued threshold prices for basic necessities; and authors included information on prices in their reports from across the region. Therefore, information on wholesale commodity prices and especially grain prices is more frequently available for the port city of Beirut than the inland cities of Damascus or Jerusalem. Lists of wholesale prices the authorities were willing to pay are more commonly available for Damascus, the seat of an imperial Army Corps. Finally newspaper authors and local authorities tended to focus on prices only when they deviated from the long-term trend—leading to more data points on inflated prices. The only meaningful time series with sufficient data to actually analyse long-term developments thus compiled are prices for a bushel (<em>kile</em>) of wheat.<a href="#fn36" class="footnoteRef" id="fnref36"><sup>36</sup></a></p>
@@ -512,7 +545,7 @@
 </table>
 <p>There were, of course, local factors that contributed to decision whether to engage in a food riot or not. A case in point is the summer of 1910 that saw a series of food riots in Aleppo, Damascus, Hama, and Homs. We have similar reports on high prices, suffering of the poor, and endemic critique of hoarding merchants and adulterated bread as well as idle authorities from Beirut. But despite the bread prices reaching the same threshold of Ps 7“20 as in August 1908 (see above),<a href="#fn42" class="footnoteRef" id="fnref42"><sup>42</sup></a> this time there was no food riot—this absence even served, as an argument against a ban of flour exports from Beirut to Damascus: the province of Syria argued that orders to send all available flour to Damascus would be uphold since there had been no food riot in Beirut and thus it could not possibly have been worse off than Damascus.<a href="#fn43" class="footnoteRef" id="fnref43"><sup>43</sup></a></p>
 <p>On the other hand, the comparison of prices and the occurrence of food riots reveals the inherent failure of these contentious performances in bringing about lower food prices in the short term. We will return to this point in the following section of this paper.<!--  This probably needs another sentence --></p>
-<h1 id="the-repertoire-of-the-food-riot">The repertoire of the food riot</h1>
+<h1 id="sec-repertoire">The repertoire of the food riot</h1>
 <!-- ## Intro ## -->
 <p>If food prices cannot explain the timing of food riots and if food riots have no discernible short-term effect on food prices, one has to look at the specific events for potential answers to the questions why protestors opted for this specific contentious form and claim and why they did so at these particular times. The sample of 13 <!-- 14 if Baghdad is included --> food riots in Aleppo, Beirut, Damascus, Hama and Homs share enough structural characteristics and the<!--  number? --> reports thereon share enough narrative commonalities to argue that the “food riot” was indeed a “repertoire of contention” (<span class="citation" data-cites="tbl:repertoire">@tbl:repertoire</span>). Charles Tilly’s idea of a repertoire as learned and shared routines, as readily-available contentious performances, can help us to make sense of the protestors’ seemingly paradoxical choices: they protested in times of destitution, expending calories without being able to eat sufficiently; they protested despite the threat of violent repercussion; complaining about hoarding merchants, the protestors addressed authorities with the demand to enforce threshold prices despite the authorities’ apparent inability to prevent such protest or to enforce such prices.</p>
 <p>The repertoire of the food riot in late Ottoman <em>Bilād al-Shām</em> can be broken down into a sequence of events that occurred in three phases: a longer prologue of artificially high prices and “inspiring” events conducive to popular protest; the food riot itself that never lasted through the night but could be repeated over some days and which rarely involved the looting of foodstuffs; the immediate aftermath of not more than a month during which the authorities tried to contain the anger through (largely symbolic) investigations and administrative measures (<span class="citation" data-cites="tbl:repertoire">@tbl:repertoire</span>).</p>
@@ -809,7 +842,7 @@
 <p>In Damascus, the price of wheat fell to Ps 53 per <em>kile</em><a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a> on 2 July 1910, the day of the riot. Two months later prices had hardly fallen. The <em>baladiyya</em> convened a meeting of bakers and millers on 29 August and announced new maximum prices for flour at Ps 40 to Ps 57 per <em>wazna</em> and for bread at Ps 3 to Ps 3“35 per <em>raṭl</em>, depending on the quality<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a>—which is almost the same price as the Ps 3”30 per <em>raṭl</em> of good bread issued on the day of the riot.</p>
 <!-- ##### Damascus 1913: Aftermath ##### -->
 <p>Two weeks after the food riot on 17 February 1913 in Damascus, <em>al-Muqtabas</em> reported a 30 per cent drop in the price of a <em>wazna</em> of flour from Ps 6“20 to Ps 4”20.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a> A day later, on 3 March, the <em>baladiyya</em> set a new maximum price for the <em>raṭl</em> of bread at Ps 4.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a> However, on 6 March, <em>al-Muqtabas</em> stated that against all hopes the price of grain had not fallen.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a> The MP for Damascus, Shukrī al-ʿAsalī, lobbied for easing the price of wheat through lifting all import customs for the duration of two months<a href="#fn135" class="footnoteRef" id="fnref135"><sup>135</sup></a> but at the end of March, wheat was still sold at Ps 59 to 65 per <em>kile</em> because up to three quarters of all millers did not adhere to the prices established by the <em>baladiyya</em>. Therefore a meeting of millers and flour merchants was convened at the municipality on 30 March<a href="#fn136" class="footnoteRef" id="fnref136"><sup>136</sup></a>, at which the merchants claimed they could not possibly buy wheat at lower prices and that they would have to sell at even higher prices in consequence.<a href="#fn137" class="footnoteRef" id="fnref137"><sup>137</sup></a> Prices reached up to Ps 80 per <em>kile</em> of wheat a week later.<a href="#fn138" class="footnoteRef" id="fnref138"><sup>138</sup></a></p>
-<h1 id="conclusion">Conclusion</h1>
+<h1 id="sec-conclusion">Conclusion</h1>
 <!-- Look at form, demand/claim, and function -->
 <p>This paper presented the first systematic attempt of a study of food riots in <em>Bilād al-Shām</em> during the final decades of Ottoman rule. A brief foray into a time series of wheat prices across the entire region showed the limited explanatory power of food prices for the occurrence of food riots. On the one hand, periods of high food prices did not necessarily result in food riots and food riots were never successful in bringing about lower food prices, on the other. I then turned to micro studies of individual food riots and forwarded the observation of significant structural similarities between them that can be broken down into three different phases and a sequence of bounded events common to (almost) all food riots.</p>
 <!-- summarise the repertoire again -->
