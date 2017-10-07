@@ -9,14 +9,15 @@ date: 2017-10-03 15:25:01 +0300
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
 - add references to the maps
 - add references to the dataset and use it for the argument in the section on food prices
-- mention Gelvin in the context of models for and of society
-- footnote on "politics of notables". probably from thesis.
 - comment on women
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 - comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
+- ask Yvonne if and how to reference maps
 
 ## done
 
+- mention Gelvin in the context of models for and of society
+- footnote on "politics of notables". probably from thesis.
 - introduction
 - #Td4: point to a table or data set on food riots
 - #Td5: write outline of paper
