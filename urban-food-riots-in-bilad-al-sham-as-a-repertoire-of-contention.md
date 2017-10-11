@@ -256,6 +256,8 @@ When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi 
 
 Looting and violent attacks continued sporadically into the evening with groups of agitated people roaming the streets and inciting speeches being delivered across the town. Crowds only dispersed in the evening when darkness fell.[^cf87]
 
+The narratives about these incidents are fascinating and deserve a study of there own---what, for instance, is the political agenda behind *al-Muqtabas*' mocking polemic of the commander of the gendarmerie in Hama, providing a most probably unsubstantiated quote in Ottoman only? However, we presently are concerned with food riots as contentious performances and with establishing a set of features that are common to most, if not all of them.
+
 ### 3. Formation of a crowd
 
 Invariably the food riot commenced with the gathering of a crowd of townspeople---commonly qualified as being from among the poor. Sometimes authors emphasise the inclusive character of the crowd by mentioning men, women, and children, old and young, etc. At least in Damascus, women were portrayed as leading the crowds or even as the majority of participants. Unfortunately the identities of protestors cannot be established beyond such generic descriptions.
