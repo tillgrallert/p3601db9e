@@ -175,7 +175,7 @@ Thus for example in summer 1910. <!-- ##### ### Aleppo 1910: Prologue ##### -->A
 
 <!-- ##### ### Homs 1910: Prologue ##### -->
 
-Prices were also high and grain was all but unavailable to the poor in Homs during the summer of 1910 due to a cartel (*iʿtiṣāb*) of grain merchants hoarding and exporting cereals to more profitable locations. Some if not all grain merchants closed their stores arguing that they could not afford to sell at the price imposed by the authorities.[^cf33] Two weeks before the food riot on 13 August, the commoners (*al-ʿāmma*) had addressed a petition to the authorities explaining their suffering from obscene prices of grain and calling for their intervention to ensure a level humaneness to the poor. But the government did not find a means to satisfy their demand despite ample wheat having been available in the granaries.[^cf34]
+Prices were also high and grain was all but unavailable to the poor in Hama and Homs during the summer of 1910 due to a cartel (*iʿtiṣāb*) of grain merchants hoarding and exporting cereals to more profitable locations. In Hama, all available reports[^cf67] blamed greedy wholesale merchants and their attempts to profit from the unrest in the Ḥawran and consequently high grain prices in Damascus by exporting all available cereals to the provincial capital.Some if not all grain merchants in Homs closed their stores arguing that they could not afford to sell at the price imposed by the authorities.[^cf33] Two weeks before a food riot in Homs on 13 August, the commoners (*al-ʿāmma*) had addressed a petition to the authorities explaining their suffering from obscene prices of grain and calling for their intervention to ensure a level humaneness to the poor. But the government did not find a means to satisfy their demand despite ample wheat having been available in the granaries.[^cf34]
 
 ### 2. Advantageous moment
 
@@ -195,11 +195,81 @@ Similar arguments can be made for the food riots in 1910 in Aleppo, Damascus, Ha
 
 The actual food riot is a bounded event commonly lasting only a few hours. It might be repeated on successive days or within a weeks time but it never continued through the night. Its main characteristics are that large crowds of protestors targeted the authorities in a predominantly peaceful manner calling for the enforcement of *fair* prices (*asʿār muʿatadila*, *taʿdīl al-asʿār*) and that, in the rare cases when violent looting took place, the crowds predominantly looted non-food items.
 
-### 3. Formation of a crowd
+Good examples for such a sequence of events are the foot riot in Beirut in 1908, outlined at the beginning of this paper, and the food riots in Damascus, Hama, and Homs in 1910. It is worthwhile to look at them in some detail:
+<!-- #### ### Damascus 1910: Food riot #### -->
+On the morning of 2 July 1910 criers roamed the streets of Damascus, calling on the people to join a demonstration against the high bread prices at Marja Square and in front of the New Serail.^[For a map of Damascus indicating the main locations see <https://github.com/tillgrallert/food-riots_data/blob/master/maps/map_damascus.geojson>] Within an hour, the streets were packed with people marching towards Marja Square. The crowds were headed by a vanguard of women howling and shouting their disgust about the authorities' failure to provide bread at fair prices.[^cf62] The marches united at Marja Square, where women, many of them carrying children and infants, took again the lead and noisily demonstrated under the windows of the New Serail, which was located off Marja Square on the banks of the River Barada.[^cf63] Officials at the various offices around the square became weary and called on the Mushīriyya to send in troops for their protection. The request was complied with and imperial troops dispersed the crowd with threats of violence, through beating, and by sloshing the demonstrators with water from fire engines. The dispersed but agitated crowds spread through the city in search for grain traders, all the while chanting insults and abuse of hoarders, calling on God to deliver them from the tyranny of the monopolists.[^cf64] Yet no looting seemed to have followed from the incident. By the evening, the city was quiet again and the governor general Ismāʿīl Fāḍil Pasha[^cf65] delivered a talk on his recent journey to the southern districts of Kerak and the Hawran at the local club of the CUP.[^cf66]
 
-Invariably the food riot commenced with the gathering of a crowd of townspeople---commonly qualified as being from among the poor. Sometimes authors emphasise the inclusive character of the crowd by mentioning men, women, and children, old and young, etc. At least in Damascus, women were portrayed as leading the crowds or even as the majority of participants. Unfortunately the identities of protestors cannot be established beyond such generic descriptions; with a single exception: When a food riot took place in Homs on 13 August 1910, Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him the food riot began with a certain Yūsuf ʿAbyān who 
+<!-- map of Damascus  -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=400&width=800"></script>
+
+<!-- #### ### Hama 1910: Food riot #### -->
+
+A month later in Hama, a demonstration of poor people against the high prices of bread escalated into a violent food riot on Thursday, 11 August 1910.[^cf67] 
+That day, a large crowd of poor men, women, and children marched to the Serail of the mutaṣarrif Nāẓim Bey on the eastern banks of the River Orontes.^[For a map of Hama indicating the main locations see <https://github.com/tillgrallert/food-riots_data/blob/master/maps/map_hama.geojson>] There they demonstrated peacefully against the high profits from the trade of foodstuff and against all exports to Damascus. Nāẓim Bey directed the crowd's anger to the municipality at the opposite, Western, end of the street leading to the Serail. He called upon the *baladiyya* to enforce sufficient measures of price control. However the mutaṣarrif and the municipality could not agree upon their respective responsibilities and dissatisfied by the official response, the crowds dispersed and began to attack stores at three different locations: 
+
+<!-- map of Hama  -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_hama.geojson?height=400&width=800"></script>
+
+At first protestors tried to break into the store of al-Mashnūq. When they failed to enter the warehouse, they resorted to throwing stones. They then turned onto the merchant Maḥmūd al-Farrā, whom they identified as the main culprit for their misery. They located al-Farrā at the slaughterhouse and threatened him with murder. Yet, he managed to lock himself inside and escaped. The crowds then split in two.
+
+One group went to the railway station <!-- of the HDP line --> to the south west of the city where large quantities of grain destined for export to Damascus were stored. The protestors forced the gates of some of the surrounding warehouses open and looted some 600 bags of grain without touching any of the railway carriages full of wheat waiting on a side track: The station master, a certain Nabīh Efendi, convinced the crowd that the station with its stores of lentils and onions and all coaches were property of the state and that the Ḥijāz Railway as such was a pious Muslim endeavour (He also allegedly managed to take a photo of the protestors with their loot that was later used for identification). After the successful apprehension of grain, the crowds again targeted <!-- Maḥmūd --> al-Farrā and broke into one of his warehouses at the station that held skins and empty bags, which they again looted. According to *al-Muqtabas*, the crowds then began shouting: "By God, onto al-Bārūdī, onto al-Bārūdī".<!-- Another observer claimed that they indeed forced the station's gates open and looted 600 bags; {muqtabas 164-eap@3} --> 
+
+At the western square they looted the stores of Aḥmad al-Ṣamṣām and Ibn al-Habiyān and of al-Bārūdī and took all the rice, sugar, and coffee they could find. Finally, they looted the warehouse of Aswad and Sharrāḥ in the al-Jisr quarter and took all the grain stored inside.
+
+The crowds could roam the street for two and a half hours without any intervention of the authorities and were finally dispersed by motorised imperial troops (15 men only). *Al-Muqtabas* mentioned the honourable but futile attempt of a single mounted policeman, a certain Khudr Efendi, to disperse the crowd: He got a severe beating and narrowly escaped bruised and bleeding. The newspaper also polemically mocked the commander of the gendarmerie as having said in Ottoman Turkish "Darling, what can we do?" (*canım ne yapalım*) upon his arrival at the scene, after which he retreated with his men.[^cf68] Altogether, it was estimated the rioters looted goods valued at between £T 1500 and £T 2000.[^cf70]
+
+<!-- #### ### Homs 1910: Food riot  #### -->
+<!-- mention inspiration by the events in Hama only days before -->
+
+Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---"among them old and young, the shaykh, the young, the woman, and the infant"[^cf112]---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya.^[For a map of Homs indicating the main locations see <https://github.com/tillgrallert/food-riots_data/blob/master/maps/map_homs.geojson>] They gathered without weapons but some claimed with the intent to loot and plunder the grain stores. 
+Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him the food riot began with a certain Yūsuf ʿAbyān who 
 
 >wanted to buy flour in the quarter of Bāb Tadmur to the east of Homs. But what he wanted could not be obtained because the city had been devoid of this item according to what some papers have written. The man took off his shoes, put both of them on a stick, and began to run and yell: 'oh poor, I am your father. I sacrificed my life for your sake' (*ayyuhā al-fuqarāʾ fa-ana abūkum afādī bi-ḥayātī fī sabīlikim*).[^cf38]
+
+<!-- As mentioned above, the whole affair allegedly began when a certain Yūsuf ʿAbyān could not find any flour to buy -->.
+
+<!-- # Unclear sequence -->
+
+Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line. Some early and generic reports also mentioned the looting of flour and bread from bakeries.[^cf72]
+
+<!-- map of Homs  -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=400&width=800"></script>
+
+<!-- # 1. Demonstration at the Serail -->
+
+Reports agree that the first confrontation between protestors and the authorities took place in front of the Serail.[^cf73] <!-- Earlier reports claim that, having met no resistance, the crowds went to the warehouses in the vicinity of the government Serail in the afternoon, which they broke into and began to loot.[^cf74] According to *al-Ittiḥād al-ʿUthmānī*, popular hearsay later blamed Maḥmūd ʿAjam for inciting the crowds to turn to the government Serial and the Ottoman bank in his attempts to protect the warehouses.[^cf75] The final report in the same newspaper, published nine days after the events, claimed that the -->
+According to *al-Ittiḥād al-ʿUthmānī*'s final report on the incident, the crowds marched through the streets and directly to the Serail, "shouting slogans, swearing and cursing (*maʿnāhu al-sibb wa-l-shatm*) everybody not marching with them".[^cf76] There they held a demonstration and called on the authorities to reign in on the merchants and prevent them from exporting grain from the city.
+<!-- Be that as it may, crowds had gathered on the square in front of the Serail where the Kaimakam, ʿAṭā Allah Bey al-Ayyūbī, and 3--4 gendarmes and police confronted them. -->
+They were confronted by the Kaimakam, ʿAtā Allah Bey al-Ayyūbī, with a small detachment of 3--4 gendarmes and police.[^fn22] He delivered a speech, threatening, pleading, cautioning, and promising to cut the price to Ps 3 for a *ratl* of<!-- #td7--> flour.[^cf77] According to Aḥmad Kurd ʿAlī, the crowds rejoiced over the announcements of the Kaimakam and would have left, if it had not been for some riff-raff among them.[^cf78] A certain T.ʿ.M. reported in *al-Ittiḥād al-ʿUthmānī* how some of the nobles and officials began to disperse the crowds after the speech of the Kaimakam and thus initiated a skirmish of thrown stones in the course of which the demonstrators realised their strength and then began to attack warehouses.[^cf79] However the violent confrontation might have begun, the kaimakam gathered all the gendarmes he could muster---about ten men---and ordered them to shoot into the air to disperse the protestors. The protestors fled the shooting but at least two groups went on: one stayed in town and looted further warehouses, the other attacked the railway station.[^cf80] Meanwhile the Kaimakam called for reinforcements from Hama and Damascus.
+
+<!-- # 2.1 Looting of warehouses -->
+
+One part of the crowd went from the square of the Serail to the warehouses of the grain merchants and looted the stores of Muṣṭafā ʿAbbās, Najīb Laṭīf, and Muṣṭafā Efendi Arslān in the vicinity of the municipal gardens adjacent to the Serail.[^cf81] 
+
+<!-- # 3. attack on the Tripoli-Ḥomṣ coach road station -->
+
+<!-- This is only reported in *al-Muqtabas* and seemingly did not result in looting -->
+
+The second group went to the Tripoli-Homs coach road station and attempted to break into warehouses and loot them.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī<!-- , who had happened to be at the scene -->. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped bleeding from their heads.[^cf82] 
+
+<!-- # 4. Attack on the railway station -->
+
+Yet another part of the crowd went to the railway station outside the city to the south west,[^cf83] where a train of some 16 wagons [^fn24] with grain, fat and manufactured goods from Hama and Homs was parked destined for export. They began looting the wagons.  When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi al-Atāsī, Badawī Efendi al-Sibāʿī, and Aḥmad al-Sibāʿī and the municipal bailiff (*jāwīsh*) Ahīn Ibn Diyāb---arrived at the scene, the looters abandoned the wagons and went for the warehouses in search for grain. A vanguard of the protestors had already forced their way into the stores located at the vicinity of the station and looted the Khān al-Salmūniyīn, Khān Bayt al-Ṭayf, Makhzan Bayt Baḍrīṭa, Makhzan Bayt Ṭalīmāt, Makhzan Farkūḥ, and a number of other warehouses not identified by name.[^cf84] According to one report the gendarmes were insulted during the altercation and received a severe beating (again). At some point they even had to surrender their arms, which were later returned to them.[^cf116] In another version of the story, the station officials defended themselves by the same means as the protestors, i.e. by throwing stones at the looters. A mounted Circassian, called Idrīs, drove his horse into the crowd in order to relieve the defenders, but he was repelled with showers of stones.[^cf86]
+
+<!-- This seems to be unrelated to the railway station. According to {Asʿad 1984@420}, the Khān al-Zahrāwī was located in the Ḥamīdiyya quarter, who also recounted the defence of the khāns by the Zahrāwīs -->
+
+<!-- # Looting and violence dying down -->
+
+Looting and violent attacks continued sporadically into the evening with groups of agitated people roaming the streets and inciting speeches being delivered across the town. Crowds only dispersed in the evening when darkness fell.[^cf87]
+
+The narratives about these incidents are fascinating and deserve a study of there own---what, for instance, is the political agenda behind *al-Muqtabas*' mocking polemic of the commander of the gendarmerie in Hama, providing a most probably unsubstantiated quote in Ottoman only? However, we presently are concerned with food riots as contentious performances and with establishing a set of features that are common to most, if not all of them.
+
+### 3. Formation of a crowd
+
+Invariably food riots commenced with the gathering of a crowd of townspeople---commonly qualified as being from among the poor. Sometimes authors emphasise the inclusive character of the crowd by mentioning men, women, and children, old and young, etc. At least in Damascus, women were portrayed as leading the crowds or even as the majority of participants. <!-- and none of the of the contemporaneous sources found that worth commenting on --> Unfortunately the identities of protestors cannot be established beyond such generic descriptions. The only exception is the above-mentioned Yūsuf ʿAbyān from Homs.
+<!--; with a single exception:  When a food riot took place in Homs on 13 August 1910, Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him the food riot began with a certain Yūsuf ʿAbyān who  -->
+
+<!-- >wanted to buy flour in the quarter of Bāb Tadmur to the east of Homs. But what he wanted could not be obtained because the city had been devoid of this item according to what some papers have written. The man took off his shoes, put both of them on a stick, and began to run and yell: 'oh poor, I am your father. I sacrificed my life for your sake' (*ayyuhā al-fuqarāʾ fa-ana abūkum afādī bi-ḥayātī fī sabīlikim*).[^cf38] -->
 
 <!-- ### terminology -->
 
@@ -209,7 +279,7 @@ The gathered people were labelled with neutral terms such as *al-qawm* (groups o
 
 ### 4. Peaceful demonstration
 
-In most cases{>> but not Aleppo and Homs 1910 <<}the crowd gathered at or marched onto the seat of the local government, be it the municipality, the seat of the district or the provincial authorities. There they peacefully raised their complains of hoarding merchants and their demand for affordable bread and grain through intervention of the authorities, namely the enforcement of the *just price*. What sets food riots apart from other forms of contentious performances, such as the mutiny of soldiers or inter-communal violence, is that protestors took neither recourse to an Islamicate repertoire nor to the "politics of notables": We do not have a single report of crowds assembling at a central mosque or of notables acting as intermediaries between the populace and the ruling authorities.[^fn21] The importance of the latter point cannot be overstated. In the wake of Hourani's seminal article, the class of local intermediaries, commonly referred to as *ʿayān*, and their importance for the governance of *Bilād al-Shām* and the Ottoman *ancien régime* has become a token in scholarly literature[^cf115]---to the extent that Dana Sajdi lamented the prevalence of "ʿayān-ology" among scholars of the modern Arabic-speaking provinces of the Ottoman Empire in the eastern Mediterranean<!--  Levant -->, even though they lacked an "agreement on how this category is constituted."[^cf114]
+In most cases <!-- but not Aleppo 1910--> the crowd gathered at or marched onto the seat of the local government, be it the municipality, the seat of the district or the provincial authorities. There they peacefully raised their complains of hoarding merchants and their demand for affordable bread and grain through intervention of the authorities, namely the enforcement of the *just price*. What sets food riots apart from other forms of contentious performances, such as the mutiny of soldiers or inter-communal violence, is that protestors took neither recourse to an Islamicate repertoire nor to the "politics of notables": We do not have a single report of crowds assembling at a central mosque or of notables acting as intermediaries between the populace and the ruling authorities.[^fn21] The importance of the latter point cannot be overstated. In the wake of Hourani's seminal article, the class of local intermediaries, commonly referred to as *ʿayān*, and their importance for the governance of *Bilād al-Shām* and the Ottoman *ancien régime* has become a token in scholarly literature[^cf115]---to the extent that Dana Sajdi lamented the prevalence of "ʿayān-ology" among scholars of the modern Arabic-speaking provinces of the Ottoman Empire in the eastern Mediterranean<!--  Levant -->, even though they lacked an "agreement on how this category is constituted."[^cf114]
 
 ### 5. Dissolution of the crowd or escalation into a riot
 
@@ -224,64 +294,6 @@ Crowds finally turned on the merchant class identified as responsible for the ge
 ### 7. Successful intervention of the highest representative of the central authorities
 
 Peace and tranquillity as the defining basis of Ottoman political legitimacy---*asāyiş-i ʿumūmī* or *al-rāḥa al-ʿumūmiyya*---are finally re-established by the intervention of the highest representative of the central authorities, namely the *vali* or the *mutaṣarrif*, and with the help of imperial troops or the gendarmerie.
-
-### examples
-
-Good examples for such a sequence of events are the foot riot in Beirut in 1908, outlined at the beginning of this paper, and the food riots in Damascus, Hama, and Homs in 1910:
-<!-- #### ### Damascus 1910: Food riot #### -->
-On the morning of 2 July 1910 criers{>> barkers, announcers<<} roamed the streets of Damascus, calling on the people to join a demonstration against the high bread prices at Marja Square and in front of the New Serail. Within an hour, the streets were packed with people marching towards Marja Square. The crowds were headed by a vanguard of women howling and shouting their disgust about the authorities' failure to provide bread at fair prices.[^cf62] The marches united at Marja Square, where women, many of them carrying children and infants, took again the lead and noisily demonstrated under the windows of the New Serail, which was located off Marja Square on the banks of the River Barada.[^cf63] Officials at the various offices around the square became weary and called on the Mushīriyya to send in troops for their protection. The request was complied with and imperial troops dispersed the crowd with threats of violence, through beating, and by sloshing the demonstrators with water from fire engines. The dispersed but agitated crowds spread through the city in search for grain traders, all the while chanting insults and abuse of hoarders, calling on God to deliver them from the tyranny of the monopolists.[^cf64] Yet no looting seemed to have followed from the incident. By the evening, the city was quiet again and the governor general Ismāʿīl Fāḍil Pasha[^cf65] delivered a talk on his recent journey to the southern districts of Kerak and the Hawran at the local club of the CUP.[^cf66]
-
-<!-- map of Damascus  -->
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=300&width=800"></script>
-
-<!-- #### ### Hama 1910: Food riot #### -->
-
-In Hama, a demonstration of poor people in front of the Serail against the high prices of bread escalated into a full-fledged and violent bread riot on Thursday, 11 August 1910. All available reports[^cf67] blamed greedy wholesale merchants and their attempts to profit from the unrest in the Ḥawran and consequently high grain prices in Damascus by exporting all available cereals to the provincial capital. 
-That day, a large crowd of poor men, women, and children marched to the Serail of the mutaṣarrif Nāẓim Bey on the eastern banks of the River Orontes. There they demonstrated peacefully against the high profits from the trade of foodstuff and against all exports to Damascus. Nāẓim Bey directed the crowd's anger to the municipality at the opposite, Western, end of the street leading to the Serail. He called upon the *baladiyya* to enforce sufficient measures of price control. However the mutaṣarrif and the municipality could not agree upon their respective responsibilities and dissatisfied by the official response, the crowds dispersed and began to attack stores at three different locations: 
-
-At first protestors tried to break into the store of al-Mashnūq. When they failed to enter the warehouse, they resorted to pelting the house with stones. They then turned onto Maḥmūd al-Farrā, whom they identified as the main culprit for their misery. They {>>finally<<} located al-Farrā at the slaughterhouse and threatened him with murder. Yet, al-Farrā managed to lock himself inside and escaped. The crowds then split in two.
-
-One group went to the railway station <!-- of the HDP line --> to the south west of the city where large quantities of grain destined for export to Damascus were stored. The protestors forced the gates of some of the surrounding warehouses open and looted some 600 bags of grain without touching any of the railway carriages full of wheat waiting on a side track. This was due to the station master, a certain Nabīh Efendi, having convinced the crowd that the station with its stores of lentils and onions and all coaches were property of the state and that the Ḥijāz Railway as such was a pious Muslim endeavour (He also allegedly managed to take a photo of the protestors with their loot that was later used for identification). After the successful apprehension of grain, the crowds again targeted <!-- Maḥmūd --> al-Farrā and broke into one of his warehouses at the station that held skins and empty bags, which they again looted. According to *al-Muqtabas*, the crowds then began shouting: "By God, onto al-Bārūdī, onto al-Bārūdī".<!-- Another observer claimed that they indeed forced the station's gates open and looted 600 bags; {muqtabas 164-eap@3} --> 
-
-At the western square they looted the stores of Aḥmad al-Ṣamṣām and Ibn al-Habiyān and of al-Bārūdī and took all the rice, sugar, and coffee they could find. Finally, they looted the warehouse of Aswad and Sharrāḥ in the al-Jisr quarter and took all the grain stored inside.
-
-The crowds could roam the street for two and a half hours without any intervention of the authorities and were finally dispersed by motorised imperial troops (15 men only). *Al-Muqtabas* mentioned the honourable but futile attempt of a single mounted policeman, a certain Khudr Efendi, to disperse the crowd: He got a severe beating and narrowly escaped bruised and bleeding. The newspaper also polemically mocked the commander of the gendarmerie as having said in Ottoman Turkish "Darling, what can we do?" (*canım ne yapalım*) upon his arrival at the scene, after which he retreated with his men.[^cf68] Altogether, it was estimated the rioters looted goods valued at between £T 1500 and £T 2000.[^cf70]
-
-<!-- #### ### Homs 1910: Food riot  #### -->
-<!-- mention inspiration by the events in Hama only days before -->
-
-Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---"among them old and young, the shaykh, the young, the woman, and the infant"[^cf112]---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya. They gathered without weapons but some claimed with the intent to loot and plunder the grain stores. As mentioned above, the whole affair allegedly began when a certain Yūsuf ʿAbyān could not find any flour to buy.
-
-<!-- # Unclear sequence -->
-
-Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line. Some early and generic reports also mentioned the looting of flour and bread from bakeries.[^cf72]
-
-<!-- # 1. Demonstration at the Serail -->
-
-Reports agree that the first confrontation between protestors and the authorities took place in front of the Serail.[^cf73] Earlier reports claim that, having met no resistance, the crowds went to the warehouses in the vicinity of the government Serail in the afternoon, which they broke into and began to loot.[^cf74] According to *al-Ittiḥād al-ʿUthmānī*, popular hearsay later blamed Maḥmūd ʿAjam for inciting the crowds to turn to the government Serial and the Ottoman bank in his attempts to protect the warehouses.[^cf75] The final report in the same newspaper, published nine days after the events, claimed that the crowd marched through the streets and directly to the Serail, "shouting slogans, swearing and cursing (*maʿnāhu al-sibb wa-l-shatm*) everybody not marching with them".[^cf76] There they held a demonstration and called on the authorities to reign in on the merchants and prevent them from exporting grain from the city.
-
-Be that as it may, crowds had gathered on the square in front of the Serail where the Kaimakam, ʿAṭā Allah Bey al-Ayyūbī, and 3--4 gendarmes and police confronted them.[^fn22] He delivered a speech, threatening, pleading, cautioning, and promising to cut the price to Ps 3 for [a *ratl* of]<!-- #td7--> flour.[^cf77] According to Aḥmad Kurd ʿAlī, the crowds rejoiced over the announcements of the Kaimakam and would have left, if it had not been for some riff-raff among them.[^cf78] A certain T.ʿ.M. reported in *al-Ittiḥād al-ʿUthmānī* how some of the nobles and officials began to disperse the crowds after the speech of the Kaimakam and thus initiated a skirmish of thrown stones in the course of which the demonstrators realised their strength and then began to attack warehouses.[^cf79] However the violent confrontation might have begun, the kaimakam gathered all the gendarmes he could muster---about ten men---and ordered them to shoot into the air to disperse the protestors. The protestors fled the shooting but at least two groups went on: one stayed in town and looted further warehouses, the other attacked the railway station.[^cf80] Meanwhile the Kaimakam called for reinforcements from Hama and Damascus.
-
-<!-- # 2.1 Looting of warehouses -->
-
-One part of the crowd went from the square of the Serail to the warehouses of the grain merchants and looted the stores of Muṣṭafā ʿAbbās, Najīb Laṭīf, and Muṣṭafā Efendi Arslān in the vicinity of the municipal gardens adjacent to the Serail.[^cf81] 
-
-<!-- # 3. attack on the Tripoli-Ḥomṣ coach road station -->
-
-<!-- This is only reported in *al-Muqtabas* and seemingly did not result in looting -->
-
-Another part of the crowd went to the Tripoli-Homs coach road station and attempted to break into warehouses and loot them.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī, who had happened to be at the scene. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped bleeding from their heads.[^cf82] 
-
-<!-- # 4. Attack on the railway station -->
-
-Yet another part of the crowd went to the railway station outside the city to the south west,[^cf83] where a train of some 16 wagons [^fn24] with grain, fat and manufactured goods from Hama and Homs destined for export was parked. They looted the wagons and the vanguard of the protestors forced their way into the warehouses located there and looted the Khān al-Salmūniyīn, Khān Bayt al-Ṭayf, Makhzan Bayt Baḍrīṭa, Makhzan Bayt Ṭalīmāt, Makhzan Farkūḥ, and many others.[^cf84]
-When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi al-Atāsī, Badawī Efendi al-Sibāʿī, and Aḥmad al-Sibāʿī and the municipal bailiff (*jāwīsh*) Ahīn Ibn Diyāb---arrived at the scene, the looters abandoned the wagons and went for the warehouses in search for grain.[^cf85] The gendarmes were severely beaten (again) and insulted. At some point they even had to surrender their arms, which were later returned to them. In another version of the story,[^cf86] the station officials defended themselves by the same means as the protestors, i.e. by throwing stones at the looters. A mounted Circassian, called Idrīs, drove his horse into the crowd in order to relieve the defenders, but he was repelled with showers of stones.
-
-<!-- This seems to be unrelated to the railway station. According to {Asʿad 1984@420}, the Khān al-Zahrāwī was located in the Ḥamīdiyya quarter, who also recounted the defence of the khāns by the Zahrāwīs -->
-
-<!-- # Looting and violence dying down -->
-
-Looting and violent attacks continued sporadically into the evening with groups of agitated people roaming the streets and inciting speeches being delivered across the town. Crowds only dispersed in the evening when darkness fell.[^cf87]
 
 ## The aftermath
 
@@ -570,7 +582,7 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf85]: {jarmuq 450@3}
 
-[^cf86]: {jarmuq 453b}
+[^cf86]: {jarmuq 453b@1-2}
 
 [^cf87]: {ittihad 583; jarmuq 450@3; lisan 6408a}
 
@@ -631,3 +643,5 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 [^cf114]: {Sajdi 2002@3-13}, here p.9.
 
 [^cf115]: Originally, {Hourani 1993@90} had introduced the *aʿyān* as one of the three sub-groups of his "secular" notables, alongside *ʿulamāʾ* and leaders of local garrisons. See also {Khoury 1983; Khoury 1990; Roded 1984@73-99; Roded 1986; SchatkowskiSchilcher 1985}. The application of "ancién regime" as coined by Tocqueville to the Ottoman context was suggested by {Salzmann 1993}, {Salzmann 2004}, especially pp. 11, 24–28; see also {Lafi 2002; Lafi 2005; Lafi 2007; ElGhoul 1997@46}.
+
+[^cf116]: {ittihad 583}
