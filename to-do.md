@@ -16,6 +16,14 @@ date: 2017-10-03 15:25:01 +0300
 - ask Yvonne if and how to reference maps: probably not
     + add references to the maps
 
+## bits and pieces
+
+If we focus on individual food riots and compare different as contentious performances, we discover that they share a limited repertoire of claims and actions
+to the extent that one could speak of a shared script. 
+
+
+This repertoire is different from what Tilly conceptualised as a repertoire of 
+
 ## done
 
 - mention Gelvin in the context of models for and of society
