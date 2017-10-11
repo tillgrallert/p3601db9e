@@ -14,7 +14,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 <!-- # processing instructions -->
 <!-- ## 1. HTML -->
-<!-- pandoc -s -S -f markdown -t html5 --toc --include-in-header=/BachUni/programming/Pandoc/css-pandoc_online-publication.txt --include-in-header=/BachUni/programming/Pandoc/css-pandoc_code-highlight_oxygen-xml.txt --email-obfuscation=javascript urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o index.html -->
+<!-- pandoc -F pandoc-crossref -s -S -f markdown -t html5 --toc --include-in-header=/BachUni/programming/Pandoc/css-pandoc_online-publication.txt --include-in-header=/BachUni/programming/Pandoc/css-pandoc_code-highlight_oxygen-xml.txt --email-obfuscation=javascript urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o index.html -->
 <!-- ## 2. DOCX -->
 <!-- pandoc -F pandoc-crossref -s -S -f markdown -t docx urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.md -o urban-food-riots-in-bilad-al-sham-as-a-repertoire-of-contention.docx -->
     
@@ -424,7 +424,7 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^fn10]: Burke's misjudgement was mainly due to the sample upon which he built his case, and which was limited to urban riots in Cairo and Damascus only between 1750 and 1830⁠. The sample was outlined in an earlier publication; {Burke 1986@339}. Nevertheless, Burke repeatedly reiterated these claims; e.g. {BurkeIii 2004}.
 
-[^fn11]: See, for instance, the annual trade statistics for each consular district published in the British House of Commons Parliamentary Papers, which are available online through ProQuest; https://parlipapers.proquest.com (requires an institutional subscription).
+[^fn11]: See, for instance, the annual trade statistics for each consular district published in the British House of Commons Parliamentary Papers, which are available online through ProQuest; <https://parlipapers.proquest.com> (requires an institutional subscription).
 
 [^cf22]: {Quataert 1973}
 
