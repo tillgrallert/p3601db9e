@@ -200,7 +200,7 @@ Good examples for such a sequence of events are the foot riot in Beirut in 1908,
 On the morning of 2 July 1910 criers{>> barkers, announcers<<} roamed the streets of Damascus, calling on the people to join a demonstration against the high bread prices at Marja Square and in front of the New Serail. Within an hour, the streets were packed with people marching towards Marja Square. The crowds were headed by a vanguard of women howling and shouting their disgust about the authorities' failure to provide bread at fair prices.[^cf62] The marches united at Marja Square, where women, many of them carrying children and infants, took again the lead and noisily demonstrated under the windows of the New Serail, which was located off Marja Square on the banks of the River Barada.[^cf63] Officials at the various offices around the square became weary and called on the Mushīriyya to send in troops for their protection. The request was complied with and imperial troops dispersed the crowd with threats of violence, through beating, and by sloshing the demonstrators with water from fire engines. The dispersed but agitated crowds spread through the city in search for grain traders, all the while chanting insults and abuse of hoarders, calling on God to deliver them from the tyranny of the monopolists.[^cf64] Yet no looting seemed to have followed from the incident. By the evening, the city was quiet again and the governor general Ismāʿīl Fāḍil Pasha[^cf65] delivered a talk on his recent journey to the southern districts of Kerak and the Hawran at the local club of the CUP.[^cf66]
 
 <!-- map of Damascus  -->
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=300&width=800"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=400&width=800"></script>
 
 <!-- #### ### Hama 1910: Food riot #### -->
 
@@ -208,6 +208,8 @@ In Hama, a demonstration of poor people in front of the Serail against the high 
 That day, a large crowd of poor men, women, and children marched to the Serail of the mutaṣarrif Nāẓim Bey on the eastern banks of the River Orontes. There they demonstrated peacefully against the high profits from the trade of foodstuff and against all exports to Damascus. Nāẓim Bey directed the crowd's anger to the municipality at the opposite, Western, end of the street leading to the Serail. He called upon the *baladiyya* to enforce sufficient measures of price control. However the mutaṣarrif and the municipality could not agree upon their respective responsibilities and dissatisfied by the official response, the crowds dispersed and began to attack stores at three different locations: 
 
 At first protestors tried to break into the store of al-Mashnūq. When they failed to enter the warehouse, they resorted to pelting the house with stones. They then turned onto Maḥmūd al-Farrā, whom they identified as the main culprit for their misery. They {>>finally<<} located al-Farrā at the slaughterhouse and threatened him with murder. Yet, al-Farrā managed to lock himself inside and escaped. The crowds then split in two.
+<!-- map of Hama  -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_hama.geojson?height=400&width=800"></script>
 
 One group went to the railway station <!-- of the HDP line --> to the south west of the city where large quantities of grain destined for export to Damascus were stored. The protestors forced the gates of some of the surrounding warehouses open and looted some 600 bags of grain without touching any of the railway carriages full of wheat waiting on a side track. This was due to the station master, a certain Nabīh Efendi, having convinced the crowd that the station with its stores of lentils and onions and all coaches were property of the state and that the Ḥijāz Railway as such was a pious Muslim endeavour (He also allegedly managed to take a photo of the protestors with their loot that was later used for identification). After the successful apprehension of grain, the crowds again targeted <!-- Maḥmūd --> al-Farrā and broke into one of his warehouses at the station that held skins and empty bags, which they again looted. According to *al-Muqtabas*, the crowds then began shouting: "By God, onto al-Bārūdī, onto al-Bārūdī".<!-- Another observer claimed that they indeed forced the station's gates open and looted 600 bags; {muqtabas 164-eap@3} --> 
 
@@ -223,6 +225,9 @@ Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of
 <!-- # Unclear sequence -->
 
 Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line. Some early and generic reports also mentioned the looting of flour and bread from bakeries.[^cf72]
+
+<!-- map of Homs  -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=400&width=800"></script>
 
 <!-- # 1. Demonstration at the Serail -->
 
