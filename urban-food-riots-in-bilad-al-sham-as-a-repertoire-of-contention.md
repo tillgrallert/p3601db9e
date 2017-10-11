@@ -461,9 +461,9 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 [^cf36]: {muqtabas 561-eap}
 
 [^fn20]: After the Young Turk Revolution of 1908, the empire saw the emergence of a new symbolic repertoire of public rituals, namely the "popular" demonstration against foreign adversaries of the empire---the novelty being the active participation of the population in these demonstrations in addition to their traditional role as spectators. Occasions were Austria-Hungary’s annexation of Bosnia and Herzegovina in 1908/09, Greece’s intervention in Crete in 1910, the Italian occupation of Tripoli in Libya in 1911/12, or the Balkan War of 1912–13; for more details on this argument see {Grallert 2014@323-325, 342}. 
-For reports on demonstrations against Greece during the Cretan crisis in 1910 see {jarmuq 378@3}{jarmuq 379@3}{jarmuq 380@3}{Young 1910}{iqbal 9-349@5-6}{lisan 6355@2}{iqbal 9-352@5}{lisan 6356@2}.
-<!-- Damascus: {jarmuq 378@3}{jarmuq 379@3}{jarmuq 380@3}{Young 1910} -->
-<!-- Beirut: {iqbal 9-349@5-6}{lisan 6355@2}{iqbal 9-352@5} -->
+For reports on demonstrations against Greece during the Cretan crisis in 1910 see {jarmuq 378@3; jarmuq 379@3; jarmuq 380@3; Young 1910; iqbal 9-349@5-6; lisan 6355@2; iqbal 9-352@5; lisan 6356@2}.
+<!-- Damascus: {jarmuq 378@3; jarmuq 379@3; jarmuq 380@3; Young 1910} -->
+<!-- Beirut: {iqbal 9-349@5-6; lisan 6355@2; iqbal 9-352@5} -->
 <!-- Haifa: {lisan 6356@2} -->
 
 [^cf37]: {jarmuq 429; lisan 6385; jarmuq 430}
@@ -532,7 +532,7 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf68]: {muqtabas 162-eap@2}
 
-[^cf70]: {jarmuq 452a}{muqtabas 164-eap@3}
+[^cf70]: {jarmuq 452a; muqtabas 164-eap@3}
 
 [^cf71]: {jarmuq 453b@1-2}
 
@@ -626,8 +626,8 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf112]: {ittihad 583@1}
 
-[^cf113]: Clifford Geertz developed the idea that cultural patterns or systems of symbols simultaneously provide both a "model of" and a "model for" society. James Gelvin applied this idea to Fayṣal's Arab Government; {Geertz 1993@93}{Gelvin 1998@226-228}{Gelvin 1994@30}.
+[^cf113]: Clifford Geertz developed the idea that cultural patterns or systems of symbols simultaneously provide both a "model of" and a "model for" society. James Gelvin applied this idea to Fayṣal's Arab Government; {Geertz 1993@93; Gelvin 1998@226-228; Gelvin 1994@30}.
 
 [^cf114]: {Sajdi 2002@3-13}, here p.9.
 
-[^cf115]: Originally, {Hourani 1993@90} had introduced the *aʿyān* as one of the three sub-groups of his "secular" notables, alongside *ʿulamāʾ* and leaders of local garrisons. See also {Khoury 1983; Khoury 1990; Roded 1984@73-99; Roded 1986}{SchatkowskiSchilcher 1985}. The application of "ancién regime" as coined by Tocqueville to the Ottoman context was suggested by {Salzmann 1993}, {Salzmann 2004}, especially pp. 11, 24–28; see also {Lafi 2002; Lafi 2005; Lafi 2007; ElGhoul 1997@46}.
+[^cf115]: Originally, {Hourani 1993@90} had introduced the *aʿyān* as one of the three sub-groups of his "secular" notables, alongside *ʿulamāʾ* and leaders of local garrisons. See also {Khoury 1983; Khoury 1990; Roded 1984@73-99; Roded 1986; SchatkowskiSchilcher 1985}. The application of "ancién regime" as coined by Tocqueville to the Ottoman context was suggested by {Salzmann 1993}, {Salzmann 2004}, especially pp. 11, 24–28; see also {Lafi 2002; Lafi 2005; Lafi 2007; ElGhoul 1997@46}.
