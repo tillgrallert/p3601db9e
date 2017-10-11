@@ -73,7 +73,7 @@ Following Charles Tilly's work, *food riots* refer to a form of contentious coll
 
 <!-- A word on terminology -->
 
-If I nevertheless retain the terms "bread riot" and "food riot", this is in tribute to the existing literature on this phenomenon. Local contemporaneous sources did not use a single or specific term to label the events under study. The Arabic denominator for the series of food riots across North Africa and the Middle East in the 1970s and 1980s (IMF riots), namely *intifāḍat al-khubz*, had not yet been coined in the early twentieth century. The common term for reporting food riots in the press was thus the generic "incident" (*ḥāditha*).[^cf6]{>>#td2<<} When food riots turned violent, witnesses referred to a battle (*maʿraka*), such as 1910 in Aleppo,[^cf7] or even *thawra* (rebellion, revolt)[^cf8] and *fitna* (strife),[^cf9] as in Hama and Homs the same year---loaded terms that clearly mark the events as illegitimate.[^fn5] Yet, *Lisān al-Ḥāl* from Beirut acknowledged that the violent foot riot and looting in Homs was "a rebellion of empty stomachs" (*thawrat al-buṭūn al-fāghira*).[^cf10]
+If I nevertheless retain the terms "bread riot" and "food riot", this is in tribute to the existing literature on this phenomenon. Local contemporaneous sources did not use a single or specific term to label the events under study. The Arabic denominator for the series of food riots across North Africa and the Middle East in the 1970s and 1980s (IMF riots), namely *intifāḍat al-khubz*, had not yet been coined in the early twentieth century. The common term for reporting food riots in the press was thus the generic "incident" (*ḥāditha*).[^cf6] When food riots turned violent, witnesses referred to a battle (*maʿraka*), such as 1910 in Aleppo,[^cf7] or even *thawra* (rebellion, revolt)[^cf8] and *fitna* (strife),[^cf9] as in Hama and Homs the same year---loaded terms that clearly mark the events as illegitimate.[^fn5] Yet, *Lisān al-Ḥāl* from Beirut acknowledged that the violent foot riot and looting in Homs was "a rebellion of empty stomachs" (*thawrat al-buṭūn al-fāghira*).[^cf10]
 
 <!-- ## Literature review: moral economy ## -->
 
@@ -339,7 +339,7 @@ Finally and despite all the praise of a successful intervention by the central a
 
 <!-- ##### Aleppo 1910 ##### -->
 
-According to a generic note in *al-Bashīr* the measures undertaken by the authorities in Aleppo were successful and the price of grain fell[^cf100] but in early July 1910 the *kile* of wheat was still sold at Ps 64[^cf101]---the same price that had been reported as the maximum price at the onset of the events. In mid-August Aḥmad Kurd ʿAlī reported from Aleppo that false rumours of locust destroying the harvests were used to justify continuously high prices. He complained that the *kile* was still sold at Ps 30 to 39.[^cf102]{>> This is important information on acceptable prices.<<}
+According to a generic note in *al-Bashīr* the measures undertaken by the authorities in Aleppo were successful and the price of grain fell[^cf100] but in early July 1910 the *kile* of wheat was still sold at Ps 64[^cf101]---the same price that had been reported as the maximum price at the onset of the events. In mid-August Aḥmad Kurd ʿAlī reported from Aleppo that false rumours of locust destroying the harvests were used to justify continuously high prices. He complained that the *kile* was still sold at Ps 30 to 39.[^cf102]<!-- This is important information on acceptable prices.-->
 
 <!-- ##### Damascus 1910 ##### -->
 
