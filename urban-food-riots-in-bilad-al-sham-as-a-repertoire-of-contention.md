@@ -249,7 +249,7 @@ One part of the crowd went from the square of the Serail to the warehouses of th
 
 <!-- This is only reported in *al-Muqtabas* and seemingly did not result in looting -->
 
-Another part of the crowd went to the Tripoli-Homs coach road station and attempted to break into warehouses and loot them.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī, who had happened to be at the scene. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped bleeding from their heads.[^cf82] 
+The second group went to the Tripoli-Homs coach road station and attempted to break into warehouses and loot them.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī, who had happened to be at the scene. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped bleeding from their heads.[^cf82] 
 
 <!-- # 4. Attack on the railway station -->
 
