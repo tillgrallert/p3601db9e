@@ -7,14 +7,11 @@ date: 2017-10-03 15:25:01 +0300
 # Important
 
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
-- change structure:
-    + move vignettes to the front of the "food riots" sections
-- add references to the dataset and use it for the argument in the section on food prices
+- use dataset  for the argument in the section on food prices
 - comment on women
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 - comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
-- ask Yvonne if and how to reference maps: probably not
-    + add references to the maps
+
 
 ## bits and pieces
 
@@ -26,6 +23,11 @@ This repertoire is different from what Tilly conceptualised as a repertoire of
 
 ## done
 
+- add references to the dataset
+- change structure:
+    + move vignettes to the front of the "food riots" sections
+- ask Yvonne if and how to reference maps: probably not
+    + add references to the maps
 - mention Gelvin in the context of models for and of society
 - footnote on "politics of notables". probably from thesis.
 - introduction
