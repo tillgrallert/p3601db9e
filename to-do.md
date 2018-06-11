@@ -8,7 +8,7 @@ date: 2017-10-03 15:25:01 +0300
 
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
 - use dataset  for the argument in the section on food prices
-- comment on women
+- comment on the relevance of women for this study
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 - comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
 - integrate qualitative price data
@@ -17,7 +17,6 @@ date: 2017-10-03 15:25:01 +0300
 - "Peace and tranquillity as the defining basis of Ottoman political legitimacy—asāyiş-i ʿumūmī or al-rāḥa al-ʿumūmiyya—" this requires a footnote
 - is the main question referred to throughout the paper?
 - Do we face a similar developments [protest against market economy] in the context of the current study? Do I pose/ answer this question? 
-- comment on the relevance of women for this study
 
 ## technicalities
 
