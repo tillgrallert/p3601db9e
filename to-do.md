@@ -18,6 +18,11 @@ date: 2017-10-03 15:25:01 +0300
 - is the main question referred to throughout the paper?
 - Do we face a similar developments [protest against market economy] in the context of the current study? Do I pose/ answer this question? 
 
+- mention the choreography and public ritual of food riots
+- significance of food riots for protest movements
+    + what are other forms and how frequent are they
+- integrate concept / term of "subsistence crisis"
+
 ## technicalities
 
 - use absolute links to images etc. to support hypothes.is
