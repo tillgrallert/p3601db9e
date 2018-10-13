@@ -114,21 +114,21 @@ In years of abundant harvests, such as 1882, 1884, 1905 or 1906, prices would fa
 
 The comparison of the time series of wheat prices across *Bilād al-Shām* with the temporal distribution of food riots {--(@tbl:food-riots)--} allows for two observations. On the one hand, we see only limited but certainly no simple causal relations between high food prices and the occurrence of food riots. Food riots coincided with periods of elevated food prices as measured in wholesale prices of wheat. But this cannot be said of the opposite---high food prices did not necessary result in food riots. Thus, while high food prices coincided with food riots in the late 1870s, in 1908 and 1910, extensive archival research has not brought up any report on food riots in 1891 or 1898. The explanatory factor here might be the larger context of the Ottoman Empire. During the late 1870s and from 1909 onwards, the empire's institutions were weakened by wars, resulting in increased conscription among the poor and with it the prolonged absence of men from *Bilād al-Shām*, a state bankruptcy in 1876, the introduction of paper money (*kaime*) subject to high inflation rates, and the state's inability to pay salaries in conjunction with forced subscriptions to finance the war effort among officials. In addition, during both periods the empire underwent rapid political transformations with the declaration of the constitution in 1876 and its restoration in 1908 that were framed by revolutionary discourses of general equality and liberty. Further research on food riots during other historical periods is necessary to substantiate this argument but the concurrence of these major crises and food riots seems a promising track to follow.
 
-<!-- Date | Place
--|-
-1878-03 | Damascus
-1880-03-14 | Beirut
-1908-08-19 | Beirut
-1910-06 | Aleppo
-1910-07-02 | Damascus
-1910-08-11 | Hama
-1910-08-13 | Homs
-1911-06 | Hama
-1913-02-17 | Damascus
-1914-11-13 | Beirut
-1914-11-21 | Beirut
-1916-02 | Damascus
-1918-03 | Damascus
+<!-- |    Date    |  Place   |
+|------------|----------|
+| 1878-03    | Damascus |
+| 1880-03-14 | Beirut   |
+| 1908-08-19 | Beirut   |
+| 1910-06    | Aleppo   |
+| 1910-07-02 | Damascus |
+| 1910-08-11 | Hama     |
+| 1910-08-13 | Homs     |
+| 1911-06    | Hama     |
+| 1913-02-17 | Damascus |
+| 1914-11-13 | Beirut   |
+| 1914-11-21 | Beirut   |
+| 1916-02    | Damascus |
+| 1918-03    | Damascus |
 
 Table: Sample of food riots in *Bilād al-Shām* {#tbl:food-riots} -->
 
