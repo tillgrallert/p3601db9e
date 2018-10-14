@@ -31,7 +31,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 # About {#sec-about}
 
->This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I gave at the conference ["The 'Dangerous Classes' in the Middle East and North Africa"](https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa), St. Antony's college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments.
+>This paper is  based on a presentation titled "Women in the streets! Urban food riots in late Ottoman *Bilād al-Shām*", which I delivered at the conference ["The 'Dangerous Classes' in the Middle East and North Africa"](https://www.sant.ox.ac.uk/events/conference-%E2%80%9Cdangerous-classes%E2%80%9D-middle-east-and-north-africa), St. Antony's college, University of Oxford, 26 January 2017. I thank all participants for their valuable comments. All data sets and visualisations are openly available at <https://doi.org/10.5281/zenodo.1008999>
 
 >The current stable draft of this paper is version [v0.2](https://rawgit.com/tillgrallert/p3601db9e/v0.2/index.html) and contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate this version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.2/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p3601db9e/index.html).
 
@@ -49,6 +49,9 @@ On 21 August 1908, less than four weeks after the restoration of the constitutio
 
 >Yesterday [20. August] they again gathered and decided amongst them to repeat their demonstrations (*muẓāharāt*) today. Thus they roamed the stores of wheat and all other places where flours is sold. They also demonstrated in expression of their dissatisfaction with the high prices of meat etc.[^cf1]
 
+<!-- map of Beirut -->
+<script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_beirut.geojson?height=400&width=800"></script>{#fig:map-beirut}
+
 Despite the officials' promises and explanations the "flour calamity" continued: grain prices in Beirut remained at a constant height at Ps 60 to 62 per *kile*[^fn3] for the best quality of wheat and Ps 35 to 42 for a *kile* of wheat from the Ḥawrān throughout the month of August.[^cf2] Some three weeks after the food riot unspecified "poor people" of Beirut approached the governor general Nāẓim Pasha---already the third in this post since the August incidents---on the occasion of Sultan ʿAbdülḥamīd II's birthday on 16 Shaʿbān 1326 (15 September) with a call to reign in on the merchants and to adopt sufficient measures against the high prices of flour and bread. The merchants responded by claiming that their suppliers in the neighbouring province of Syria were the ones to be held responsible. Thus, Nāẓim Pasha contented himself with establishing an inquiry and an appeal to the merchants to lower prices once the inquiry had come to a conclusion. The last thing we hear of this matter is that the governor general was still waiting for an answer from Damascus.[^cf3]
 
 <!-- ## First observations, core question ## -->
@@ -57,7 +60,9 @@ The incident is puzzling: Poor people, suffering from high prices of flour and b
 
 <!-- ## Introduction -->
 
-This paper tries to answer this question by presenting a first analysis of a growing sample of currently 15 <!-- 14 if Baghdad is included --> food riots in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa and Jerusalem at the end of Ottoman rule between the 1870s and 1918{-- (@tbl:food-riots)--}. The phenomenon of food riots---that is crowds of people assembling in a public place and raising the demand of lower food prices vis-à-vis another group of people---in the Middle East before the IMF riots of the 1970s and 1980s has not yet received sufficient systematic scholarly attention. The current paper represents the first foray into this direction.
+This paper tries to answer this question by presenting a first analysis of a growing sample of currently 19 <!-- #td10 26 if Baghdad is included --> food riots in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa and Jerusalem at the end of Ottoman rule between the mid-1870s and 1918 (@fig:map-food-riots). The phenomenon of food riots---that is crowds of people assembling in a public place and raising the demand of lower food prices vis-à-vis another group of people---in the Middle East before the IMF riots of the 1970s and 1980s has not yet received sufficient systematic scholarly attention. The current paper represents the first foray into this direction.
+
+![Food riots in Bilād al-Shām, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/maps/map_food-riots-1874-1916_levant.png){#fig:map-food-riots width=100%}
 
 <!-- Short outline -->
 
@@ -69,7 +74,7 @@ This paper employs a systematic reading of five Beiruti and two Damascene newspa
 
 <!-- ## summary: argument -->
 
-Following Charles Tilly's work, *food riots* refer to a form of contentious collective action: a group of people assemble in a public place<!-- #td3 --> and raise the demand of lower food prices vis-à-vis another group of people.[^cf5] All food riots in our sample {--(@tbl:food-riots)--} conform to this basic definition of a specific *form* of action as well as a specific contentious *claim*. From this follows that food *riots* were not necessarily riotous or violent. Their main purpose was not necessarily (an immediate concern for) *food* either. Rather *food* and *access to food* at *fair prices* had a symbolic and discursive function: The demand for affordable food gained its power from its inherent legitimacy within any political system based on the minimal consent of the ruled to being ruled. As such food riots were part of the negotiations over political legitimacy *within* the existing Ottoman political order. 
+Following Charles Tilly's work, *food riots* refer to a form of contentious collective action: a group of people assemble in a public place<!-- #td3 --> and raise the demand of lower food prices vis-à-vis another group of people.[^cf5] All food riots in our sample  conform to this basic definition of a specific *form* of action as well as a specific contentious *claim*.{>>foot note mentioning the openly available data set<<} From this follows that food *riots* were not necessarily riotous or violent. Their main purpose was not necessarily (an immediate concern for) *food* either. Rather *food* and *access to food* at *fair prices* had a symbolic and discursive function: The demand for affordable food gained its power from its inherent legitimacy within any political system based on the minimal consent of the ruled to being ruled. As such food riots were part of the negotiations over political legitimacy *within* the existing Ottoman political order. 
 
 <!-- A word on terminology -->
 
@@ -99,7 +104,7 @@ It is beyond the scope  of this paper to describe the price sampling methodologi
 
 <!-- ## relation between wheat and bread prices -->
 
-Relying predominantly on wholesale prices of wheat for evaluating the relation between changes in food prices and the occurrence of food riots is a fruitful endeavour because of the particularities of the food economy in *Bilād al-Shām*. First, although information on consumption is scarce, a sketch of the general pattern is possible. The poor majority of townspeople lived mainly on vegetarian provisions, with cereals being their main source of nutrition. They preferred white bread made from wheat---a rule from which they diverted only in times of want, when brown and even black bread became the only options. In accordance with European patterns, their demand for bread, which counted for half of the diet under normal conditions (c. ¼ *raṭl* per day), was highly inelastic and would even rise to ninety per cent in times of want (because all available funds would be spent on bread).[^cf25] Second, voices complaining about expensive or unaffordable bread commonly provided wholesale wheat prices thus linking the two. Third, the relation between a volume of wheat and a weight of bread should not change considerably, save for changes in recipe. Fourth, the vast majority of townspeople had neither an oven nor the means to buy large quantities of grain immediately after the harvest when prices were low and to safely store them for several months. Thus, they relied on the local neighbourhood ovens-cum-bakeries for their daily bread.[^fn13] In this regard it does not matter whether bakeries operated independently from millers and wholesale grain merchants or not: The townspeople were completely dependent on the availability and constant supply of *sufficient* amounts of bread and therefore grain at *affordable* prices within a money-based market economy.
+Relying predominantly on wholesale prices of wheat for evaluating the relation between changes in food prices and the occurrence of food riots is a fruitful endeavour because of the particularities of the food economy in *Bilād al-Shām*. First, although information on consumption is scarce, a sketch of the general pattern is possible. The poor majority of townspeople lived mainly on vegetarian provisions, with cereals being their main source of nutrition. They preferred white bread made from wheat---a rule from which they diverted only in times of want, when brown and even black bread became the only options. In accordance with European patterns, their demand for bread, which counted for half of the diet under normal conditions (c. 1/4 *raṭl* per day), was highly inelastic and would even rise to ninety per cent in times of want (because all available funds would be spent on bread).[^cf25] Second, voices complaining about expensive or unaffordable bread commonly provided wholesale wheat prices thus linking the two. Third, the relation between a volume of wheat and a weight of bread should not change considerably, save for changes in recipe. Fourth, the vast majority of townspeople had neither an oven nor the means to buy large quantities of grain immediately after the harvest when prices were low and to safely store them for several months. Thus, they relied on the local neighbourhood ovens-cum-bakeries for their daily bread.[^fn13] In this regard it does not matter whether bakeries operated independently from millers and wholesale grain merchants or not: The townspeople were completely dependent on the availability and constant supply of *sufficient* amounts of bread and therefore grain at *affordable* prices within a money-based market economy.
 
 <!-- ## Observations ## -->
 
@@ -112,29 +117,9 @@ Relying predominantly on wholesale prices of wheat for evaluating the relation b
 @fig:wheat-prices shows the highly uneven distribution and fluctuation of wholesale wheat prices and food riots in *Bilād al-Shām* between the mid-1870s and the end of 1916 (after which point prices sky-rocketted to an extent that would distort any plot). Prices fluctuated widely between years in addition to an annual cycle of rising prices during spring before new harvests arrived at the market in June (@fig:wheat-price-annual). 
 In years of abundant harvests, such as 1882, 1884, 1905 or 1906, prices would fall below the long term average of Ps 20 to 25 per *kile*[^fn14] to Ps 17 and even Ps 14. When calamities such as insufficient winter rains and locusts threatened failing harvests, prices reached Ps 60 per *kile* and more. This data does not mirror the trend of falling grain prices between 1876 and 1905 followed by a sharp increase of some 25 per cent between 1906 and 1908 observed by Donald Quataert for Anatolia. Since that decrease was partially due to American wheat flooding the world markets, it is not surprising that such decrease cannot be observed for Bilād al-Shām which relied on local crops. While average grain prices in Istanbul fell from c. Ps 25"20 per *kile* to Ps 18"20, Ps 25 was considered the normal price in good years in Damascus.[^fn15] The inflation and fluctuation of exchange rates between the gold lira and the silver piaster are of no importance in this context since prices were always quoted in piaster only.[^fn16]
 
-The comparison of the time series of wheat prices across *Bilād al-Shām* with the temporal distribution of food riots {--(@tbl:food-riots)--} allows for two observations. On the one hand, we see only limited but certainly no simple causal relations between high food prices and the occurrence of food riots. Food riots coincided with periods of elevated food prices as measured in wholesale prices of wheat. But this cannot be said of the opposite---high food prices did not necessary result in food riots. Thus, while high food prices coincided with food riots in the late 1870s, in 1908 and 1910, extensive archival research has not brought up any report on food riots in 1891 or 1898. The explanatory factor here might be the larger context of the Ottoman Empire. During the late 1870s and from 1909 onwards, the empire's institutions were weakened by wars, resulting in increased conscription among the poor and with it the prolonged absence of men from *Bilād al-Shām*, a state bankruptcy in 1876, the introduction of paper money (*kaime*) subject to high inflation rates, and the state's inability to pay salaries in conjunction with forced subscriptions to finance the war effort among officials. In addition, during both periods the empire underwent rapid political transformations with the declaration of the constitution in 1876 and its restoration in 1908 that were framed by revolutionary discourses of general equality and liberty. Further research on food riots during other historical periods is necessary to substantiate this argument but the concurrence of these major crises and food riots seems a promising track to follow.
+The comparison of the time series of wheat prices across *Bilād al-Shām* with the temporal distribution of food riots (marked by red vertical lines in the plots) allows for two observations. On the one hand, we see only limited and certainly no simple causal relations between high food prices and the occurrence of food riots. Food riots coincided with periods of elevated food prices as measured in wholesale prices of wheat. But this cannot be said of the opposite---high food prices did not necessary result in food riots. Thus, while high food prices coincided with food riots in the late 1870s, in 1908 and 1910, extensive archival research has not brought up any report on food riots in 1891 or 1898.[^cf120] The explanatory factor here might be the larger context of the Ottoman Empire. During the late 1870s and from 1909 onwards, the empire's institutions were weakened by wars, resulting in increased conscription among the poor and with it the prolonged absence of men from *Bilād al-Shām*, a state bankruptcy in 1876, the introduction of paper money (*kaime*) subject to high inflation rates, and the state's inability to pay salaries in conjunction with forced subscriptions to finance the war effort among officials. In addition, during both periods the empire underwent rapid political transformations with the declaration of the constitution in 1876 and its restoration in 1908 that were framed by revolutionary discourses of general equality and liberty. Further research on food riots during other historical periods is necessary to substantiate this argument but the concurrence of these major crises and food riots seems a promising track to follow.
 
-<!-- |    Date    |  Place   |
-|------------|----------|
-| 1878-03    | Damascus |
-| 1880-03-14 | Beirut   |
-| 1908-08-19 | Beirut   |
-| 1910-06    | Aleppo   |
-| 1910-07-02 | Damascus |
-| 1910-08-11 | Hama     |
-| 1910-08-13 | Homs     |
-| 1911-06    | Hama     |
-| 1913-02-17 | Damascus |
-| 1914-11-13 | Beirut   |
-| 1914-11-21 | Beirut   |
-| 1916-02    | Damascus |
-| 1918-03    | Damascus |
-
-Table: Sample of food riots in *Bilād al-Shām* {#tbl:food-riots} -->
-
-There were, of course, local factors that contributed to decision whether to engage in a food riot or not{>> and which are outside the sope of this paper<<}. A case in point is the summer of 1910 that saw a series of food riots in Aleppo, Damascus, Hama, and Homs. We have similar reports on high prices, suffering of the poor, and endemic critique of hoarding merchants and adulterated bread as well as idle authorities from Beirut. But despite the bread prices reaching the same threshold of Ps 7"20 as in August 1908 (see above),[^cf26] this time there was no food riot---this absence, at the time, even served as an argument against a ban of flour exports from Beirut to Damascus: the province of Syria argued that orders to send all available flour to Damascus would be uphold since there had been no food riot in Beirut and thus it could not possibly have been worse off than Damascus.[^cf27]
-
-{>>At the bginning of this paragraph I mention local factors but I must mentioned that they are not covered in this paper<<}
+There were, of course, local factors that contributed to decision whether to engage in a food riot or not{>> and which are outside the sope of this paper<<}. A case in point is the summer of 1910 that saw a series of food riots in Aleppo, Damascus, Hama, and Homs (see below). We have similar reports on high prices, suffering of the poor, and endemic critique of hoarding merchants and adulterated bread as well as idle authorities from Beirut. But despite the bread prices reaching the same threshold of Ps 7"20 as in August 1908 (see above),[^cf26] this time there was no food riot---this absence, at the time, even served as an argument against a ban of flour exports from Beirut to Damascus: the province of Syria argued that orders to send all available flour to Damascus would be uphold since there had been no food riot in Beirut and thus it could not possibly have been worse off than Damascus.[^cf27]
 
 On the other hand, the comparison of prices and the occurrence of food riots reveals the inherent failure of these contentious performances in bringing about lower food prices in the short term. We will return to this point in the following section of this paper.<!--  This probably needs another sentence -->
 
@@ -142,29 +127,9 @@ On the other hand, the comparison of prices and the occurrence of food riots rev
 
 <!-- ## Intro ## -->
 
-If food prices cannot explain the timing of food riots and if food riots have no discernible short-term effect on food prices, one has to look at the specific events for potential answers to the questions why protestors opted for this specific contentious form and claim and why they did so at these particular times. The sample of 13 <!-- 14 if Baghdad is included --> food riots in Aleppo, Beirut, Damascus, Hama and Homs share enough structural characteristics and the<!--  number? --> reports thereon share enough narrative commonalities to argue that the "food riot" was indeed a "repertoire of contention" (@tbl:repertoire). Charles Tilly's idea of a repertoire as learned and shared routines, as readily-available contentious performances, can help us to make sense of the protestors' seemingly paradoxical choices: they protested in times of destitution, expending calories without being able to eat sufficiently; they protested despite the threat of violent repercussion; complaining about hoarding merchants, the protestors addressed authorities with the demand to enforce threshold prices despite the authorities' apparent inability to prevent such protest or to enforce such prices. 
+If food prices cannot explain the timing of food riots and if food riots have no discernible short-term effect on food prices, one has to look at the specific events for potential answers to the questions why protestors opted for this specific contentious form and claim and why they did so at these particular times. The sample of 19<!-- #td10 26 if Baghdad is included --> food riots in Aleppo, Beirut, Damascus, Hama,  Homs, Jaffa and Jerusalem share enough structural characteristics and the<!--  number? --> reports thereon share enough narrative commonalities to argue that the "food riot" was indeed a "repertoire of contention". Charles Tilly's idea of a repertoire as learned and shared routines, as readily-available contentious performances, can help us to make sense of the protestors' seemingly paradoxical choices: they protested in times of destitution, expending calories without being able to eat sufficiently; they protested despite the threat of violent repercussion; complaining about hoarding merchants, the protestors addressed authorities with the demand to enforce threshold prices despite the authorities' apparent inability to prevent such protest or to enforce such prices. 
 
-The repertoire of the food riot in late Ottoman *Bilād al-Shām* can be broken down into a sequence of events that occurred in three phases: a longer prologue of artificially high prices and "inspiring" events conducive to popular protest; the food riot itself that never lasted through the night but could be repeated over some days and which rarely involved the looting of foodstuffs; the immediate aftermath of not more than a month during which the authorities tried to contain the anger through (largely symbolic) investigations and administrative measures (@tbl:repertoire).
-
-
-<!-- Date | Place | Phase 1 || Phase 2 ||||| Phase 3 | -->
-Date | Place | 1. high prices | 2. timing | 3. crowd gathers | 4. seat of authorities | 5. failed intervention | 6.looting | 7. successful intervention | 8. promised improvements | 9. high prices | # of elements
--|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-1878-03 | Damascus | x | x | x | x | - | - | x | x | x | 7
-1880-03-14 | Beirut | x | - | x | - | - | x | x | x | - | 5
-1908-08-19 | Beirut | x | x | x | x | x | - | x | x | x | 8
-1910-06 | Aleppo | x | - | x | - | x | x | x | x | x | 7
-1910-07-02 | Damascus | x | x | x | x | - | - | x | x | x | 7
-1910-08-11 | Hama | x | x | x | x | x | x | x | x | - | 8
-1910-08-13 | Homs | x | x | x | x | x | x | x | x | x | 9
-1911-06 | Hama | x | - | x | - | - | - | x | - | - | 3
-1913-02-17 | Damascus | x | - | x | x | - | - | x | x | x | 6
-1914-11-13 | Beirut | x | x | x | - | - | - | x | x | x | 6
-1914-11-21 | Beirut | x | x | x | - | - | - | - | - | x | 4
-1916-02 | Damascus | x | - | x | x | - | - | x | x | - | 5
-1918-03 | Damascus | x | - | x | - | - | - | - | - | x | 3
-
-Table: Sample of food riots and the elements of the repertoire {#tbl:repertoire}
+The repertoire of the food riot in late Ottoman *Bilād al-Shām* can be broken down into a sequence of events that occurred in three phases: a longer prologue of artificially high prices and "inspiring" events conducive to popular protest; the food riot itself that never lasted through the night but could be repeated over some days and which rarely involved the looting of foodstuffs; the immediate aftermath of not more than a month during which the authorities tried to contain the anger through (largely symbolic) investigations and administrative measures.
 
 ## The prologue
 
@@ -172,7 +137,7 @@ All food riots were preceded by extended periods of hardship and elevated food p
 
 ### 1. Artificially high prices
 
-<!--Available price data shows that prices of grain, flour, and bread were indeed unusually high prior to food riots. -->Prohibitive prices of bread and grain were commonly portrayed as artificially high and blamed on greedy wholesale merchants seeking undue profits from either exporting or hoarding cereals and thus draining the local market. In the case of Damascus and Beirut, exports were usually destined for foreign markets, but in {--many other--} inland towns, such as Hama and Homs, the main export destination deemed responsible for price hikes was the provincial capital Damascus.
+<!--Available price data shows that prices of grain, flour, and bread were indeed unusually high prior to food riots. -->Prohibitive prices of bread and grain were commonly portrayed as artificially high and blamed on greedy wholesale merchants seeking undue profits from either exporting or hoarding cereals and thus draining the local market. In the case of Damascus and Beirut, exports were usually destined for foreign markets, but in inland towns, such as Hama and Homs, the main export destination deemed responsible for price hikes was the provincial capital Damascus.
 
 In the situation of increased and rising prices, some (unnamed) people would begin to criticise (*shakā*) those responsible as evil-doing hoarders and monopolists (*muḥtakirūn*)[^cf28]. Newspapers went to some lengths to emphasise the sinister machinations of the grain merchants, addressing them as the "lords of greed" (*arbāb al-maṭāmiʿ*)[^cf29] responsible for conspiring to form monopolies (*istaʾthara*[^cf30]) and cartels (*iʿtaṣaba*[^cf31]). Opposing such illegal action with reports on legitimate ways of protest, many sources emphasise that criticism had been raised before anything of a violent nature happened and through established channels, such as a petition.[^cf32]
 
@@ -192,11 +157,11 @@ Once the stage was set and merchants' responsibility for the suffering of the po
 
 <!-- #### examples #### -->
 
-Thus, the food riot of August 1908 in Beirut took place in a time of political turmoil. The Young Turks had just staged their coup and reinstated the constitution of 1876. Their followers and the {==CUP==}{>>explain<<} tried to quickly seize power on all levels of the state administration and across the entire empire, with quick successions of appointments and dismissals of officials and with large-scale public celebrations. When protestors took to the streets on 19 August, Beirut had seen daily popular celebrations and the second governor general in the course of a month had already submitted his resignation[^fn18]---until the poor again raised their suffering from high food prices on the occasion of the Sultanic birthday on 15 Shaʿbān 1326 aH (15 September), at least another two persons would have filled the post.[^fn19]
+Thus, the food riot of August 1908 in Beirut took place in a time of political turmoil. The Young Turks had just staged their coup and reinstated the constitution of 1876. Their followers and the CUP tried to quickly seize power on all levels of the state administration and across the entire empire, with quick successions of appointments and dismissals of officials and with large-scale public celebrations. When protestors took to the streets on 19 August, Beirut had seen daily popular celebrations and the second governor general in the course of a month had already submitted his resignation[^fn18]---until the poor again raised their suffering from high food prices on the occasion of the Sultanic birthday on 15 Shaʿbān 1326 aH (15 September), at least another two persons would have filled the post.[^fn19]
 
 In March 1878, the governor general of Syria, Cevdet Pasha was new to Damascus and all but one battalion of the 5th Army were absent from the city fighting in the Russo-Ottoman War. Upon the public reading of his *firmān* of appointment on 8 March, he announced the beginning of an era of rule of law and just government.[^cf35] Food riots began on 12 March and intensified until their culmination on 16 March, which happened to be the day of *mawlid nawbawī*, the Prophet's birthday, on 12 Rabīʿ I 1295 aH. Thirty-two years later, another food riot took place in Damascus one day before *mawlid nabawī* 1331 aH on 17 February 1913.[^cf36]
 
-Similar arguments can be made for the food riots in 1910 in Aleppo, Damascus, Hama, and Homs. Protestors pushed their negotiation power by exercising their constitutional rights to assemble and protest and by employing the new symbolic repertoire of popular rallies and demonstrations---commonly staged in support of the authorities and against foreign enemies[^fn20]---against the authorities themselves in close temporal proximity to official celebrations of the second anniversary of the restoration of the constitution on 24 July (food riots took place in mid-June in Aleppo, on 2 July in Damascus, on 11 August in Hama and two days later in Homs). In addition to this larger context, a new director of police, Nāfidh Efendi, had arrived in Damascus only the day before the demonstration,[^cf37] while the entire *baladiyya* had stepped down on 15 June over a fiscal scandal surrounding the ʿAyn Fīja project.
+Similar arguments can be made for the food riots in 1910 in Aleppo, Damascus, Hama, and Homs. Protestors pushed their negotiation power by exercising their constitutional rights to assemble and protest and by employing the new symbolic repertoire of popular rallies and demonstrations---commonly staged in support of the authorities and against foreign enemies[^fn20]---against the authorities themselves in close temporal proximity to official celebrations of the second anniversary of the restoration of the constitution on 24 July (food riots took place in mid-June in Aleppo, on 2 July in Damascus, on 11 August in Hama and two days later in Homs). In addition to this larger context, a new director of police, Nāfidh Efendi, had just arrived in Damascus the day before the demonstration, while the entire municipal council <!-- *baladiyya* --> had stepped down on 15 June over a fiscal scandal surrounding the ʿAyn Fīja project.[^cf37]
 
 ## The food riot itself
 
@@ -204,7 +169,7 @@ The actual food riot is a bounded event commonly lasting only a few hours. It mi
 
 Good examples for such a sequence of events are the food riot in Beirut in 1908, outlined at the beginning of this paper, and the food riots in Damascus, Hama, and Homs in 1910. It is worthwhile to look at them in some detail:
 <!-- #### ### Damascus 1910: Food riot #### -->
-On the morning of 2 July 1910 criers roamed the streets of Damascus, calling on the people to join a demonstration against the high bread prices at Marja Square and in front of the New Serail ({@fig:map-damascus}).^[For a map of Damascus indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_damascus.geojson>] Within an hour, the streets were packed with people marching towards Marja Square. The crowds were headed by a vanguard of women howling and shouting their disgust about the authorities' failure to provide bread at fair prices.[^cf62] The marches united at Marja Square, where women, many of them carrying children and infants, took again the lead and noisily demonstrated under the windows of the New Serail, which was located off Marja Square on the banks of the River Barada.[^cf63] Officials at the various offices around the square became weary and called on the Mushīriyya to send in troops for their protection. The request was complied with and imperial troops dispersed the crowd with threats of violence, through beating, and by sloshing the demonstrators with water from fire engines. The dispersed but agitated crowds spread through the city in search for grain traders, all the while chanting insults and abuse of hoarders, calling on God to deliver them from the tyranny of the monopolists.[^cf64] Yet no looting seemed to have followed from the incident. By the evening, the city was quiet again and the governor general Ismāʿīl Fāḍil Pasha[^cf65] delivered a talk on his recent journey to the southern districts of Kerak and the Hawran at the local club of the CUP.[^cf66]
+On the morning of 2 July 1910 criers roamed the streets of Damascus, calling on the people to join a demonstration against the high bread prices at Marja Square and in front of the New Serail ({@fig:map-damascus}).[^cf117] Within an hour, the streets were packed with people marching towards Marja Square. The crowds were headed by a vanguard of women howling and shouting their disgust about the authorities' failure to provide bread at fair prices.[^cf62] The marches united at Marja Square, where women, many of them carrying children and infants, took again the lead and noisily demonstrated under the windows of the New Serail, which was located off Marja Square on the banks of the River Barada.[^cf63] Officials at the various offices around the square became weary and called on the Mushīriyya to send in troops for their protection. The request was complied with and imperial troops dispersed the crowd with threats of violence, through beating, and by sloshing the demonstrators with water from fire engines. The dispersed but agitated crowds spread through the city in search for grain traders, all the while chanting insults and abuse of hoarders, calling on God to deliver them from the tyranny of the monopolists.[^cf64] Yet no looting seemed to have followed from the incident. By the evening, the city was quiet again and the governor general Ismāʿīl Fāḍil Pasha[^cf65] delivered a talk on his recent journey to the southern districts of Kerak and the Hawran at the local club of the CUP.[^cf66]
 
 <!-- map of Damascus  -->
 <script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_damascus.geojson?height=400&width=800"></script>{#fig:map-damascus}
@@ -212,32 +177,30 @@ On the morning of 2 July 1910 criers roamed the streets of Damascus, calling on 
 <!-- #### ### Hama 1910: Food riot #### -->
 
 A month later in Hama, a demonstration of poor people against the high prices of bread escalated into a violent food riot on Thursday, 11 August 1910.[^cf67] 
-That day, a large crowd of poor men, women, and children marched to the Serail of the mutaṣarrif Nāẓim Bey on the eastern banks of the River Orontes.^[For a map of Hama indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_hama.geojson>] There they demonstrated peacefully against the high profits from the trade of foodstuff and against all exports to Damascus. Nāẓim Bey directed the crowd's anger to the municipality at the opposite, Western, end of the street leading to the Serail. He called upon the *baladiyya* to enforce sufficient measures of price control. However the mutaṣarrif and the municipality could not agree upon their respective responsibilities and dissatisfied by the official response, the crowds dispersed and began to attack stores at three different locations: 
+That day, a large crowd of poor men, women, and children marched to the Serail of the mutaṣarrif Nāẓim Bey on the eastern banks of the River Orontes.[^cf118] There they demonstrated peacefully against the high profits from the trade of foodstuff and against all exports to Damascus. Nāẓim Bey directed the crowd's anger to the municipality at the opposite, Western, end of the street leading to the Serail. He called upon the *baladiyya* to enforce sufficient measures of price control. However the mutaṣarrif and the municipality could not agree upon their respective responsibilities and dissatisfied by the official response, the crowds dispersed and began to attack stores at three different locations: 
 
 <!-- map of Hama  -->
 <script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_hama.geojson?height=400&width=800"></script>
 
 At first protestors tried to break into the store of al-Mashnūq. When they failed to enter the warehouse, they resorted to throwing stones. They then turned onto the merchant Maḥmūd al-Farrā, whom they identified as the main culprit for their misery. They located al-Farrā at the slaughterhouse and threatened him with murder. Yet, he managed to lock himself inside and escaped. The crowds then split in two.
 
-One group went to the railway station <!-- of the HDP line --> to the south west of the city where large quantities of grain destined for export to Damascus were stored. The protestors forced the gates of some of the surrounding warehouses open and looted some 600 bags of grain without touching any of the railway carriages full of wheat waiting on a side track: The station master, a certain Nabīh Efendi, convinced the crowd that the station with its stores of lentils and onions and all coaches were property of the state and that the Ḥijāz Railway as such was a pious Muslim endeavour (He also allegedly managed to take a photo of the protestors with their loot that was later used for identification). After the successful apprehension of grain, the crowds again targeted <!-- Maḥmūd --> al-Farrā and broke into one of his warehouses at the station that held skins and empty bags, which they again looted. According to *al-Muqtabas*, the crowds then began shouting: "By God, onto al-Bārūdī, onto al-Bārūdī".<!-- Another observer claimed that they indeed forced the station's gates open and looted 600 bags; {muqtabas 164-eap@3} --> 
+One group went to the railway station <!-- of the HDP line --> to the south west of the city where large quantities of grain destined for export to Damascus were stored. The protestors forced the gates of some of the surrounding warehouses open and looted some 600 bags of grain without touching any of the railway carriages full of wheat waiting on a side track. The station master, a certain Nabīh Efendi, apparently managed to convince the crowd that the station with its stores of lentils and onions and all coaches were property of the state and that the Ḥijāz Railway as such was a pious Muslim endeavour (He also allegedly managed to take a photo of the protestors with their loot that was later used for identification). After the successful apprehension of grain, the crowds again targeted <!-- Maḥmūd --> al-Farrā and broke into one of his warehouses at the station that held skins and empty bags, which they again looted. According to *al-Muqtabas*, the crowds then began shouting: "By God, onto al-Bārūdī, onto al-Bārūdī".<!-- Another observer claimed that they indeed forced the station's gates open and looted 600 bags; {muqtabas 164-eap@3} --> 
 
 At the western square they looted the stores of Aḥmad al-Ṣamṣām and Ibn al-Habiyān and of al-Bārūdī and took all the rice, sugar, and coffee they could find. Finally, they looted the warehouse of Aswad and Sharrāḥ in the al-Jisr quarter and took all the grain stored inside.
 
-The crowds could roam the street for two and a half hours without any intervention of the authorities and were finally dispersed by motorised imperial troops (15 men only). *Al-Muqtabas* mentioned the honourable but futile attempt of a single mounted policeman, a certain Khudr Efendi, to disperse the crowd: He got a severe beating and narrowly escaped bruised and bleeding. The newspaper also polemically mocked the commander of the gendarmerie as having said in Ottoman Turkish "Darling, what can we do?" (*canım ne yapalım*) upon his arrival at the scene, after which he retreated with his men.[^cf68] Altogether, it was estimated the rioters looted goods valued at between £T 1500 and £T 2000.[^cf70]
+The crowds could roam the street for two and a half hours without any intervention of the authorities and were finally dispersed by a small detachment of motorised imperial troops (15 men). *Al-Muqtabas* mentioned the honourable but futile attempt of a single mounted policeman, a certain Khudr Efendi, to disperse the crowd<!-- : He got a severe beating and narrowly escaped bruised and bleeding -->. The newspaper also polemically mocked the commander of the gendarmerie as having said in Ottoman Turkish "Darling, what can we do?" (*canım ne yapalım*) upon his arrival at the scene, after which he retreated with his men.[^cf68] <!-- Altogether, it was estimated the rioters looted goods valued at between £T 1500 and £T 2000.[^cf70] -->
 
 <!-- #### ### Homs 1910: Food riot  #### -->
 <!-- mention inspiration by the events in Hama only days before -->
 
-Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---"among them old and young, the shaykh, the young, the woman, and the infant"[^cf112]---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya.^[For a map of Homs indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_homs.geojson>] They gathered without weapons but some claimed with the intent to loot and plunder the grain stores. 
-Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him the food riot began with a certain Yūsuf ʿAbyān who 
+Two days later, on the morning of Saturday, 13 August 1910, an agitated crowd of thousands of poor and destitute people---"among them old and young, the shaykh, the young, the woman, and the infant"[^cf112]---gathered in the Suqs in the Eastern part of Homs and then moved northwards in the direction of the Serail and the baladiyya.[^cf119] They gathered without weapons but some claimed with the intent to loot and plunder the grain stores. 
+Aḥmad Kurd ʿAlī, the brother of Muḥammad Kurd ʿAlī and co-editor of his newspaper *al-Muqtabas*, was on a journey to the north and quick to travel to the location of the incident from where he filed a number of lengthy reports. According to him, the food riot began with a certain Yūsuf ʿAbyān who 
 
 >wanted to buy flour in the quarter of Bāb Tadmur to the east of Homs. But what he wanted could not be obtained because the city had been devoid of this item according to what some papers have written. The man took off his shoes, put both of them on a stick, and began to run and yell: 'oh poor, I am your father. I sacrificed my life for your sake' (*ayyuhā al-fuqarāʾ fa-ana abūkum afādī bi-ḥayātī fī sabīlikim*).[^cf38]
 
-<!-- As mentioned above, the whole affair allegedly began when a certain Yūsuf ʿAbyān could not find any flour to buy. -->
-
 <!-- # Unclear sequence -->
 
-Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line. Some early and generic reports also mentioned the looting of flour and bread from bakeries.[^cf72]
+Despite numerous long reports in the news press, the sequence of events is not entirely clear but demonstrations and looting occurred in at least four different locations: the square in front of the Serail, warehouses in the vicinity of the municipal garden, the Tripoli-Homs coach station, and the railway station on the Damascus-Hama line.[^cf72]
 
 <!-- map of Homs  -->
 <script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_homs.geojson?height=400&width=800"></script>
@@ -251,17 +214,17 @@ They were confronted by the Kaimakam, ʿAtā Allah Bey al-Ayyūbī, with a small
 
 <!-- # 2.1 Looting of warehouses -->
 
-One part of the crowd went from the square of the Serail to the warehouses of the grain merchants and looted the stores of Muṣṭafā ʿAbbās, Najīb Laṭīf, and Muṣṭafā Efendi Arslān in the vicinity of the municipal gardens adjacent to the Serail.[^cf81] 
+One part of the crowd went from the square of the Serail to the neighbouring warehouses of grain merchants and looted the stores of Muṣṭafā ʿAbbās, Najīb Laṭīf, and Muṣṭafā Efendi Arslān in the vicinity of the municipal gardens adjacent to the Serail.[^cf81] 
 
 <!-- # 3. attack on the Tripoli-Homs coach road station -->
 
 <!-- This is only reported in *al-Muqtabas* and seemingly did not result in looting -->
 
-The second group went to the Tripoli-Homs coach road station and attempted to break into warehouses and loot them.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī<!-- , who had happened to be at the scene -->. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped bleeding from their heads.[^cf82] 
+The second group went to the Tripoli-Homs coach road station and attempted to break into warehouses<!--  and loot them -->.[^fn23] There they encountered the gendarme Tawfīq Efendi al-Atāsī<!-- , who had happened to be at the scene -->. He was attacked with stones, hit on the forehead, and wounded. The Kaimakam arrived with three gendarmes, but they were also met with showers of stones and he had to retreat with the commander of the gendarmerie to the Serail, from where they again tried to rescue al-Atāsī by threatening the use of fire arms. This stopped the crowd and the protestors dispersed. Al-Atāsī and the commander of the gendarmerie escaped lightly wounded.[^cf82] 
 
 <!-- # 4. Attack on the railway station -->
 
-Yet another part of the crowd went to the railway station outside the city to the south west,[^cf83] where a train of some 16 wagons [^fn24] with grain, fat and manufactured goods from Hama and Homs was parked destined for export. They began looting the wagons.  When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi al-Atāsī, Badawī Efendi al-Sibāʿī, and Aḥmad al-Sibāʿī and the municipal bailiff (*jāwīsh*) Ahīn Ibn Diyāb---arrived at the scene, the looters abandoned the wagons and went for the warehouses in search for grain. A vanguard of the protestors had already forced their way into the stores located at the vicinity of the station and looted the Khān al-Salmūniyīn, Khān Bayt al-Ṭayf, Makhzan Bayt Baḍrīṭa, Makhzan Bayt Ṭalīmāt, Makhzan Farkūḥ, and a number of other warehouses not identified by name.[^cf84] According to one report the gendarmes were insulted during the altercation and received a severe beating (again). At some point they even had to surrender their arms, which were later returned to them.[^cf116] In another version of the story, the station officials defended themselves by the same means as the protestors, i.e. by throwing stones at the looters. A mounted Circassian, called Idrīs, drove his horse into the crowd in order to relieve the defenders, but he was repelled with showers of stones.[^cf86]
+Yet another part of the crowd went to the railway station outside the city to the south west,[^cf83] where a train of some 16 wagons [^fn24] with grain, fat and manufactured goods from Hama and Homs was parked destined for export. They began looting the wagons.  When three gendarmes and some volunteers---(the already wounded) Tawfīq Efendi al-Atāsī, Badawī Efendi al-Sibāʿī, Aḥmad al-Sibāʿī and the municipal bailiff (*jāwīsh*) Ahīn Ibn Diyāb---arrived at the scene, the looters abandoned the wagons and went for the warehouses in search for grain. A vanguard of the protestors had already forced their way into the stores located at the vicinity of the station and looted the Khān al-Salmūniyīn, Khān Bayt al-Ṭayf, Makhzan Bayt Baḍrīṭa, Makhzan Bayt Ṭalīmāt, Makhzan Farkūḥ, and a number of other warehouses not identified by name.[^cf84] According to one report the gendarmes were insulted during the altercation and received a severe beating (again). At some point they even had to surrender their arms, which were later returned to them.[^cf116] In another version of the story, the station officials defended themselves by the same means as the protestors, i.e. by throwing stones at the looters. A mounted Circassian, called Idrīs, drove his horse into the crowd in order to relieve the defenders, but he was repelled with showers of stones.[^cf86]
 
 <!-- This seems to be unrelated to the railway station. According to {Asʿad 1984@420}, the Khān al-Zahrāwī was located in the Ḥamīdiyya quarter, who also recounted the defence of the khāns by the Zahrāwīs -->
 
@@ -269,7 +232,7 @@ Yet another part of the crowd went to the railway station outside the city to th
 
 Looting and violent attacks continued sporadically into the evening with groups of agitated people roaming the streets and inciting speeches being delivered across the town. Crowds only dispersed in the evening when darkness fell.[^cf87]
 
-The narratives about these incidents are fascinating and deserve a study of there own---what, for instance, is the political agenda behind *al-Muqtabas*' mocking polemic of the commander of the gendarmerie in Hama, providing a most probably unsubstantiated quote in Ottoman only? However, we presently are concerned with food riots as contentious performances and with establishing a set of features that are common to most, if not all of them.
+The narratives about these incidents are fascinating and deserve a study of there own---what, for instance, is the political agenda behind *al-Muqtabas*' mocking polemic of the commander of the gendarmerie in Hama, providing a most probably unsubstantiated quote in Ottoman only? However, here we are concerned with food riots as contentious performances and with establishing a set of features that are common to most, if not all of them.
 
 ### 3. Formation of a crowd
 
@@ -292,12 +255,13 @@ In most cases <!-- but not Aleppo 1910--> the crowd gathered at or marched onto 
 
 Once the claim was made at the seat of the authorities, representatives of the state attempt to appease the gathered crowds, acknowledging and affirming the inherent legitimacy and justness of their demands and trying to dissolve the potentially dangerous gathering through a combination of promises, threats and real violence. In those instances when crowds, making use of the urban topography and the most prominent square in town, did not gather in front of highest political authority, the head of the *baladiyya* or the *kaimakam* at whose offices the demonstration took place tried to redirect the crowd's anger to the higher authority of the *vali* or *mutaṣarrif*. 
 
-{==The authorities' initial reaction was the decisive factor in deciding whether a rather peaceful demonstration turned into a violent riot and looting. If they failed in their attempt to ultimately dissolve the crowd by whatever means, the agitated crowd began roaming the streets and searched for other targets.==}{>>Carolijn: Is this relevant for what you are showing in your paper? How is it linked to your main claims? (§3, §5, and §12) <<}
-{>>Till: my initial thoughs are that the threat of violence had to be backed up by real violence once the authorities had shown their contempt for the protestors<<}
+{==The authorities' initial reaction was the decisive factor in deciding whether a rather peaceful demonstration turned into a violent riot and looting. If they failed in their attempt to ultimately dissolve the crowd by whatever means, the agitated crowd began roaming the streets and searched for other targets.==}{>>Carolijn: Is this relevant for what you are showing in your paper? How is it linked to your main claims? (§3, §5, and §12 [3 wrong claims]) <<} It seems as if the original threat of violence had to be backed up by some real violence once the authorities had shown their contempt for the protestors.
+{>>Till: plus letting off steam <<}
 
 ### 6. (optional) Rioting and looting
 
 Crowds finally turned on the merchant class identified as responsible for the general calamity both by the protestors and the authorities. Groups of people violently loot warehouses and stores. They particularly target warehouses at railway and coach stations as part of the vilified export trade. However, in all but one case, when grain storages are looted at the railway station of Homs, {==the looters preferred anything but food and thus seem destined to inflict harm upon their oppressors rather than interested in satisfying their demand for food. Local authorities, already tainted by their earlier failure are portrayed as utterly helpless and incompetent during the violent part of the collective action.==}{>>Carolijn: This seems quite a big claim. Do you have evidence for this? Food was not so expensive, so stealing that would not have harmed the merchants? You might want to connect back here to the earlier claims you formulated (§3, §5, and §12) as to what you are showing in this paper.<<}
+{>>Till: I think the detailed account of the 1910 events in Hama do support this claim<<}
 
 ### 7. Successful intervention of the highest representative of the central authorities
 
@@ -341,7 +305,7 @@ Finally the local authorities tried to enforce lower prices. Municipal criers wa
 
 ### 9. No reports on falling grain prices
 
-Finally and despite all the praise of a successful intervention by the central authorities, food prices did not fall in any significant way in the immediate aftermath of a food riot. In many instances they even continued to rise before the arrival of new harvests causes the common cyclical decrease.
+Utlimately, despite all the praise of a successful intervention by the central authorities, food prices did not fall in any significant way in the immediate aftermath of food riots. In many instances they even continued to rise before the arrival of new harvests causes the common cyclical decrease.
 
 <!-- #### examples #### -->
 
@@ -374,7 +338,7 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^fn2]: One Ottoman gold *lira* (£T) was nominally divided into 100 silver piaster (Ps, *kuruş* / *qurūsh*) and 400 copper *para* (*bārā*) since the introduction of bimetallic standard in 1844. Prices of every-day items and foodstuffs were commonly cited in piaster. The silver *mecidiye* coin of Ps 20 was the base for most transactions. Due to falling world market prices of silver, the Ottoman Empire devaluated the *mecidiye* for the purpose of tax payments from Ps 20 to 19 in 1880. The official exchange rate between gold *lira* and silver piaster was set to Ps 123 in May 1883 for the same reason. Local rates varied widely across time and *Bilād al-Shām* with a continuous trend of further devaluation of the piaster coin.
 
-[^cf1]: {lisan 5795a@3}
+[^cf1]: {lisan 5795a@3}. For a map of Beirut indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_beirut.geojson>.
 
 [^fn3]: The bushel (*kile*) was the basic unit of the cereals trade (grain, flour, and dough) in the Ottoman Empire and across *Bilād al-Shām*. The *kile* was divided into 2 *madd* and also referred to as *jift* (Ottoman *çift*: pair). Centralisation efforts to establish an imperial standard bushel (*Istanbul kilesi* or new *kile*) of 40 litre were not successful. In *Bilād al-Shām* a *kile* equalled about 36,8 litre.  A less common volume was the *shunbul*, which equalled 3 *kile* in Aleppo and 2,25 *kile* in the ports of Tripoli and Acre; {AlQasimi 1960b@291; PoidsMesuresMonnaiesEt 2002@6-7; Inalcik 1985@333; Mishāqa 1889n; lisan 645a; Mishāqa 1889o; Devey 1912a}.
 
@@ -440,7 +404,7 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^cf24]: E.g. {Shields 1991@22} provides a table of only 14 data points based on British consular reports.
 
-[^fn12]: As far as the relationship between local volumes was known, they have all been normalised to *kile*. Our data is openly available at <https://doi.org/10.5281/zenodo.1008999>.
+[^fn12]: As far as the relationship between local volumes was known, they have all been normalised to *kile*. All data sets and visualisations are openly available at <https://doi.org/10.5281/zenodo.1008999>.
 
 [^cf25]: {Jago 1871@394-395; TheLevantHerald 1877i@2; Grehan 2007@66-9; Grobba 1923; Schilcher 1991@174; Thompson 1971@91-2; Jago 1879k@615; lisan 5137a; bashir 1761; Richards 1898i; bashir 1815}
 
@@ -486,7 +450,7 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 <!-- Beirut: {iqbal 9-349@5-6; lisan 6355@2; iqbal 9-352@5} -->
 <!-- Haifa: {lisan 6356@2} -->
 
-[^cf37]: {jarmuq 429; lisan 6385; jarmuq 430}
+[^cf37]: {jarmuq 429; lisan 6385; jarmuq 430; jarmuq 398; Devey 1910b}
 
 [^cf38]: {jarmuq 453b@1-2}
 
@@ -548,21 +512,21 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf66]: {jarmuq 412c}
 
-[^cf67]: {lisan 6403@2; muqtabas 162-eap@2; iqbal 9-360@6, 7; ittihad 582@3; muqtabas 164-eap@3; bashir 1977d@3; jarmuq 452a@3; iqbal 9-361@8}
+[^cf67]: The following account of the food riot is based on {lisan 6403@2; muqtabas 162-eap@2; iqbal 9-360@6, 7; ittihad 582@3; muqtabas 164-eap@3; bashir 1977d@3; jarmuq 452a@3; iqbal 9-361@8}.
 
 [^cf68]: {muqtabas 162-eap@2}
 
-[^cf70]: {jarmuq 452a; muqtabas 164-eap@3}
+<!-- [^cf70]: {jarmuq 452a; muqtabas 164-eap@3} -->
 
-[^cf71]: {jarmuq 453b@1-2}
+<!-- [^cf71]: {jarmuq 453b@1-2} -->
 
-[^cf72]: {muqtabas 162-eap; bashir 1977f; al-quds-2-172@2}
+[^cf72]: Some early and generic reports also mentioned the looting of flour and bread from bakeries; {muqtabas 162-eap; bashir 1977f; al-quds-2-172@2}. This, however, is not corroborated by the more detailed accounts of events
 
 [^cf73]: {ittihad 583; ittihad 586a; lisan 6408a; ittihad 588}
 
-[^cf74]: {ittihad 583; jarmuq 450@3; ittihad 586a}
+<!-- [^cf74]: {ittihad 583; jarmuq 450@3; ittihad 586a} -->
 
-[^cf75]: {ittihad 586a}
+<!-- [^cf75]: {ittihad 586a} -->
 
 [^cf76]: {ittihad 588}
 
@@ -588,7 +552,7 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf84]: {jarmuq 450@3}
 
-[^cf85]: {jarmuq 450@3}
+<!-- [^cf85]: {jarmuq 450@3} -->
 
 [^cf86]: {jarmuq 453b@1-2}
 
@@ -653,3 +617,11 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 [^cf115]: Originally, {Hourani 1993@90} had introduced the *aʿyān* as one of the three sub-groups of his "secular" notables, alongside *ʿulamāʾ* and leaders of local garrisons. See also {Khoury 1983; Khoury 1990; Roded 1984@73-99; Roded 1986; SchatkowskiSchilcher 1985}. The application of "ancién regime" as coined by Tocqueville to the Ottoman context was suggested by {Salzmann 1993}, {Salzmann 2004}, especially pp. 11, 24–28; see also {Lafi 2002; Lafi 2005; Lafi 2007; ElGhoul 1997@46}.
 
 [^cf116]: {ittihad 583}
+
+[^cf117]: For a map of Damascus indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_damascus.geojson>.
+
+[^cf118]: For a map of Hama indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_hama.geojson>.
+
+[^cf119]: For a map of Homs indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_homs.geojson>.
+
+[^cf120]: I have argued elsewhere that the prevailing view on the Ottoman Empire before 1908 as being able and willing to rigourously implement restrictive press censorship even across remote regions is part of nation-building narratives after 1908 and particularly the Turkish and Arabic nationalist movements after World War I. According to my data set of warnings to and suspensions of periodicals across *Bilād al-Shām*, neither 1891 nor 1898 were particularly oppressive years. {Grallert 2014@86-94} cf. {Boyar 2006}; the data set is available at <https://doi.org/10.5281/zenodo.1063484>.
