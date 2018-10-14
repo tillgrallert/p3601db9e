@@ -50,7 +50,7 @@ On 21 August 1908, less than four weeks after the restoration of the constitutio
 >Yesterday [20. August] they again gathered and decided amongst them to repeat their demonstrations (*muẓāharāt*) today. Thus they roamed the stores of wheat and all other places where flours is sold. They also demonstrated in expression of their dissatisfaction with the high prices of meat etc.[^cf1]
 
 <!-- map of Beirut -->
-<script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_beirut.geojson?height=400&width=800"></script>{#fig:map-beirut}
+<script src="https://embed.github.com/view/geojson/tillgrallert/p04b832f0/master/maps/map_beirut.geojson?height=400&width=800"></script><!-- {#fig:map-beirut} -->
 
 Despite the officials' promises and explanations the "flour calamity" continued: grain prices in Beirut remained at a constant height at Ps 60 to 62 per *kile*[^fn3] for the best quality of wheat and Ps 35 to 42 for a *kile* of wheat from the Ḥawrān throughout the month of August.[^cf2] Some three weeks after the food riot unspecified "poor people" of Beirut approached the governor general Nāẓim Pasha---already the third in this post since the August incidents---on the occasion of Sultan ʿAbdülḥamīd II's birthday on 16 Shaʿbān 1326 (15 September) with a call to reign in on the merchants and to adopt sufficient measures against the high prices of flour and bread. The merchants responded by claiming that their suppliers in the neighbouring province of Syria were the ones to be held responsible. Thus, Nāẓim Pasha contented himself with establishing an inquiry and an appeal to the merchants to lower prices once the inquiry had come to a conclusion. The last thing we hear of this matter is that the governor general was still waiting for an answer from Damascus.[^cf3]
 
@@ -108,11 +108,15 @@ Relying predominantly on wholesale prices of wheat for evaluating the relation b
 
 <!-- ## Observations ## -->
 
-![Wheat prices in Bilād al-Shām, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/plots/rplot_prices-wheat-1874-1916_box-plot.png){#fig:wheat-prices width=100%} 
+![Wheat prices in Bilād al-Shām, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/plots/rplot_prices-wheat-1874-1916_box-plot.png){#fig:wheat-prices width=100%}
+
+[^1]: This box plot represents the distribution of daily average wheat prices aggregated by year. The size of the boxes is determined by the first and third quartile; the bar inside the box represents the median. Food riots are indicated by red vertical lines.  
 
 ![Qualitative information on prices of food stuffs, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/plots/rplot_prices-wheat-1874-1916_trends.png){#fig:price-trends width=100%}
 
-![Annual cycle of wheat prices in Bilād al-Shām, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/plots/rplot_prices-wheat-1874-1916_annual-cycle-box.png){#fig:wheat-price-annual width=50%} 
+[^2]: This plot shows the clustering of qualitative price information. Each coloured dot represents a source providing one of the five qualitative price information listed on the left.
+
+![Annual cycle of wheat prices in Bilād al-Shām, 1874--1916](https://github.com/tillgrallert/p04b832f0/raw/master/plots/rplot_prices-wheat-1874-1916_annual-cycle-box.png){#fig:wheat-price-annual width=50%}
 
 @fig:wheat-prices shows the highly uneven distribution and fluctuation of wholesale wheat prices and food riots in *Bilād al-Shām* between the mid-1870s and the end of 1916 (after which point prices sky-rocketted to an extent that would distort any plot). Prices fluctuated widely between years in addition to an annual cycle of rising prices during spring before new harvests arrived at the market in June (@fig:wheat-price-annual). 
 In years of abundant harvests, such as 1882, 1884, 1905 or 1906, prices would fall below the long term average of Ps 20 to 25 per *kile*[^fn14] to Ps 17 and even Ps 14. When calamities such as insufficient winter rains and locusts threatened failing harvests, prices reached Ps 60 per *kile* and more. This data does not mirror the trend of falling grain prices between 1876 and 1905 followed by a sharp increase of some 25 per cent between 1906 and 1908 observed by Donald Quataert for Anatolia. Since that decrease was partially due to American wheat flooding the world markets, it is not surprising that such decrease cannot be observed for Bilād al-Shām which relied on local crops. While average grain prices in Istanbul fell from c. Ps 25"20 per *kile* to Ps 18"20, Ps 25 was considered the normal price in good years in Damascus.[^fn15] The inflation and fluctuation of exchange rates between the gold lira and the silver piaster are of no importance in this context since prices were always quoted in piaster only.[^fn16]
@@ -336,7 +340,7 @@ I argued that such a shared and learned repertoire can serve to answer the quest
 
 [^fn1]: Across *Bilād al-Shām* the basic weight was the *uqqa* of 400 *dirham*, roughly equalling 1,282 kg. For food items such as bread and flour, the *raṭl* (pl. *ruṭūl*, *arṭāl*) of two *uqqa* was the common weight; {Goering 1878a@489; ReichsamtDesInnern 1880@233; PoidsMesuresMonnaiesEt 2002@5-7, 53; Inalcik 1985@338-40; Mishāqa 1889n}.
 
-[^fn2]: One Ottoman gold *lira* (£T) was nominally divided into 100 silver piaster (Ps, *kuruş* / *qurūsh*) and 400 copper *para* (*bārā*) since the introduction of bimetallic standard in 1844. Prices of every-day items and foodstuffs were commonly cited in piaster. The silver *mecidiye* coin of Ps 20 was the base for most transactions. Due to falling world market prices of silver, the Ottoman Empire devaluated the *mecidiye* for the purpose of tax payments from Ps 20 to 19 in 1880. The official exchange rate between gold *lira* and silver piaster was set to Ps 123 in May 1883 for the same reason. Local rates varied widely across time and *Bilād al-Shām* with a continuous trend of further devaluation of the piaster coin.
+[^fn2]: One Ottoman gold *lira* (£T) was nominally divided into 100 silver piasters (Ps, *kuruş* / *qurūsh*) and 400 copper *para* (*bārā*) since the introduction of bimetallic standard in 1844. Prices of every-day items and foodstuffs were commonly cited in piaster. The silver *mecidiye* coin of Ps 20 was the base for most transactions. Due to falling world market prices of silver, the Ottoman Empire devaluated the *mecidiye* for the purpose of tax payments from Ps 20 to 19 in 1880. The official exchange rate between gold *lira* and silver piaster was set to Ps 123 in May 1883 for the same reason. Local rates varied widely across time and *Bilād al-Shām* with a continuous trend of further devaluation of the piaster coin.
 
 [^cf1]: {lisan 5795a@3}. For a map of Beirut indicating the main locations see <https://github.com/tillgrallert/p04b832f0/blob/master/maps/map_beirut.geojson>.
 
