@@ -1,7 +1,7 @@
 ---
 title: "Urban food riots in late Ottoman *Bilād al-Shām* as a 'repertoire of contention'"
 author: Till Grallert
-date: 2018-06-08
+date: 2018-10-14
 ORCID: orcid.org/0000-0002-5739-8094
 DOI: doi.org/10.5281/zenodo.1001636
 licence: http://creativecommons.org/licenses/by-nd/4.0/
@@ -464,7 +464,7 @@ For reports on demonstrations against Greece during the Cretan crisis in 1910 se
 
 [^cf41]: {iqbal 9-361}
 
-[^cf42]: {jarmuq 412a; lisan 6369} {ittihad 583; lisan 6408a; jarmuq 450@3}
+[^cf42]: {jarmuq 412a; lisan 6369; ittihad 583; lisan 6408a; jarmuq 450@3}
 
 [^cf43]: {lisan 6359}
 
