@@ -7,12 +7,16 @@ date: 2017-10-03 15:25:01 +0300
 # Important
 
 - Formalities: c.10000 words; English spellings, full footnotes, no additional bibliography, consistent transliteration (IJMES or Iranian Studies)
-- use dataset  for the argument in the section on food prices
+- mention that the choreography and public ritual of food riots is at the core of my paper. I do not want to explain why food riots happened at a particular moment
+- comment on the significance of locations:
+    + Hama: events take place all across the town with main sites of action being at opposite ends of the city.
+    + Homs: events take place across the city and groups of protestors and law enforcement repeatedly cross the city
+- the plots might need some annotation
 - comment on the relevance of women for this study
 - comment on neither form nor claim being commented on as unusual by contemporaneous sources.
 - comment that newspapers are the common source for most research on contentious politics and the most important event catalogues
-- integrate qualitative price data
-- comment on absence of food riots between 1880 and 1908
+
+- further comment on absence of food riots between 1880 and 1908
     + comment on standard view on press censorship in this period
 - "Peace and tranquillity as the defining basis of Ottoman political legitimacy—asāyiş-i ʿumūmī or al-rāḥa al-ʿumūmiyya—" this requires a footnote
 - is the main question referred to throughout the paper?
@@ -38,6 +42,13 @@ This repertoire is different from what Tilly conceptualised as a repertoire of
 
 ## done
 
+- use dataset  for the argument in the section on food prices: I am not sure what I meant by this statement
+    + **done** in [^fn12]: mention that the data set and all plots are available with DOI from Zenodo
+    + **done** #td10: make sure to use a consistent number of food riots: 
+        * 2018-10-13: 26 food riots between 1874--1916, including 7 in Baghdad
+- **done** add static maps
+    + of all food riots in my sample
+- **done** integrate qualitative price data
 - add references to the dataset
 - change structure:
     + move vignettes to the front of the "food riots" sections
